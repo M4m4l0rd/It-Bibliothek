@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f10b910-0c6a-42bd-b262-56a484075a04</dc:identifier>
+        <dc:title>SAP S/4HANA: Voraussetzungen - Nutzen - Erfolgsfaktoren</dc:title>
+        <dc:creator opf:file-as="Ulf Koglin" opf:role="aut">Ulf Koglin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-15T09:25:01.627041+00:00</dc:date>
+        <dc:description>»Schnell« und »einfach« lauten die Zauberwörter rund um die neue SAP Business Suite 4 SAP HANA. In dieser 2. Auflage unseres Bestsellers erfahren Sie, was sich dahinter verbirgt: Geschäftsprozesse, Funktionen, Nutzen und Technologie von SAP S/4HANA werden anschaulich erklärt. Ob in der Cloud oder On-Premise: Sie lernen, welche Betriebsmodelle es gibt und welche Optionen für die Implementierung zur Verfügung stehen. Der Wegweiser für Entscheider, Berater und alle Interessierten – jetzt in der 2. Auflage, inklusive Fiori 2.0, neuen Migrationspfaden, den Neuerungen von Release 1709 u.v.m.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836260398</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NEjNzQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Besser ankommen in der Zukunft</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ulf Koglin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T08:35:50.625637+00:00"/>
+        <meta name="calibre:title_sort" content="SAP S/4HANA: Voraussetzungen - Nutzen - Erfolgsfaktoren"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

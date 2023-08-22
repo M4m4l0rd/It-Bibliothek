@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52da411f-26bd-4405-9bb7-89910c00bbd6</dc:identifier>
+        <dc:title>Angewandte Kryptographie</dc:title>
+        <dc:creator opf:file-as="Ertel, Wolfgang" opf:role="aut">Wolfgang Ertel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-02T00:00:00+00:00</dc:date>
+        <dc:description>4., überarbeitete und ergänzte Auflage</dc:description>
+        <dc:publisher>Hanser, Carl</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783446411951</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">d5RtzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">344641195X</dc:identifier>
+        <dc:language>deu</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-20T09:13:25.759704+00:00"/>
+        <meta name="calibre:title_sort" content="Angewandte Kryptographie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

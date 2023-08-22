@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4cc9d92-c86d-4186-b26f-b4bbef12d71d</dc:identifier>
+        <dc:title>Datenanalyse mit Python: Auswertung von Daten mit pandas, NumPy und Jupyter</dc:title>
+        <dc:creator opf:file-as="McKinney, Wes" opf:role="aut">Wes McKinney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-10T14:21:12.865333+00:00</dc:date>
+        <dc:description>&lt;p&gt;Die erste Adresse für die Analyse von Daten mit Python  Das Standardwerk in der 3. Auflage, aktualisiert auf Python 3.10 und pandas 1.4 Versorgt Sie mit allen praktischen Details und mit wertvollem Insiderwissen, um Datenanalysen mit Python erfolgreich durchzuführen Mit Jupyter-Notebooks für alle Codebeispiele aus jedem Kapitel  Erfahren Sie alles über das Manipulieren, Bereinigen, Verarbeiten und Aufbereiten von Datensätzen mit Python: Aktualisiert auf Python 3.10, zeigt Ihnen dieses konsequent praxisbezogene Buch anhand konkreter Fallbeispiele, wie Sie eine Vielzahl von typischen Datenanalyse-Problemen effektiv lösen. Gleichzeitig lernen Sie die neuesten Versionen von pandas, NumPy, IPython und Jupyter kennen. Geschrieben von Wes McKinney, dem Begründer des pandas-Projekts, bietet "Datenanalyse mit Python" einen praktischen Einstieg in die Data-Science-Tools von Python. Das Buch eignet sich sowohl für Datenanalysten, für die Python Neuland ist, als auch für Python-Programmierer, die sich in Data Science und Scientific Computing einarbeiten wollen. Daten und zugehöriges Material des Buchs sind auf GitHub verfügbar.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">6f-yEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783960107538</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wes McKinney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-15T14:20:59.610982+00:00"/>
+        <meta name="calibre:title_sort" content="Datenanalyse mit Python: Auswertung von Daten mit pandas, NumPy und Jupyter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

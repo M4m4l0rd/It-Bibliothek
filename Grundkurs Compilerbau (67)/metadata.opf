@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b79f21a7-56bc-4dab-8655-1711b9807133</dc:identifier>
+        <dc:title>Grundkurs Compilerbau</dc:title>
+        <dc:creator opf:file-as="Dr. Uwe Meyer" opf:role="aut">Uwe Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T16:45:30.331471+00:00</dc:date>
+        <dc:description>Der Compilerbau ist eine der ältesten Disziplinen der Informatik, und ohne Compiler gäbe es keine Programmiersprachen, Frameworks oder Anwendungen. In diesem Fachbuch lernen Sie, wie Compiler funktionieren, und verstehen das Fundament der Programmiersprachen. Prof. Uwe Meyer bereitet Ihnen dazu die Grundlagen und die Funktionsweise des Compilerbaus modern und zeitgemäß auf und führt Sie von den Begriffsdefinitionen, Paradigmen und Konzepten der Programmiersprachen bis hin zur Generierung von Assemblercode und seiner Optimierung.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836277341</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZruHzgEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Compiler anschaulich und modern erklärt</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Uwe Meyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T16:42:17.610239+00:00"/>
+        <meta name="calibre:title_sort" content="Grundkurs Compilerbau"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

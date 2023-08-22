@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1a396a2-56e4-4b37-afb2-a6bcec7a01f7</dc:identifier>
+        <dc:title>Datenbanksysteme für Dummies</dc:title>
+        <dc:creator opf:file-as="Gerken, Wolfgang" opf:role="aut">Wolfgang Gerken</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-15T05:47:01.901468+00:00</dc:date>
+        <dc:description>&lt;p&gt;Datenbanken sind unverzichtbare Basis fast aller Informationssysteme. Dieses in dritter, erweiterter Auflage vorliegende Buch vermittelt Ihnen das notwendige Grundlagenwissen zu Datenbanksystemen. Dabei werden, nach einem allgemeinen Überblick über die verschiedenen Datenbankmodelle, vor allem der Entwurf und die Implementierung relationaler Datenbanken besprochen. Im Mittelpunkt des praktischen Teils steht die Datenbanksprache SQL, die anhand vieler Beispiele detailliert erläutert wird. Auch auf SQL-spezifische Besonderheiten der verbreiteten Datenbankmanagementsysteme MySQL, Oracle und PostgreSQL wird eingegangen. Mit den zahlreich vorhandenen Übungsaufgaben sowie einer Fallstudie zum Download können Sie Ihren Lernfortschritt überprüfen. Musterlösungen dazu sind vorhanden.  Der Inhalt orientiert sich an den Empfehlungen der Gesellschaft für Informatik für das Studienfach Informatik.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783527841158</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">cn6iEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07B5HYD9V</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>Data Warehousing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wolfgang Gerken&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-28T05:46:03.889967+00:00"/>
+        <meta name="calibre:title_sort" content="Datenbanksysteme für Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>
