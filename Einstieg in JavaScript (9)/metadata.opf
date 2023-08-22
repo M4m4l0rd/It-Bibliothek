@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae6279af-5e49-42b6-8e75-f08ea9a6b88e</dc:identifier>
+        <dc:title>Einstieg in JavaScript</dc:title>
+        <dc:creator opf:file-as="Thomas Theis" opf:role="aut">Thomas Theis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T06:53:38+00:00</dc:date>
+        <dc:description>Lernen Sie Schritt für Schritt die Grundlagen der modernen JavaScript-Programmierung. Das Buch führt Sie in alle relevanten Bereiche ein: HTML und CSS, Objekte, anonyme Funktionen, Ereignisbehandlung, jQuery und Ajax. Zahlreiche anschauliche Beispielanwendungen erleichtern das Verständnis und dienen Ihnen als Vorlage für Ihre eigenen Projekte. Schon bald entwickeln Sie anspruchsvolle interaktive Programme für Ihre Website.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836285247</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oxd3zwEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Der leichte Einstieg in JavaScript!</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-09T22:54:00+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in JavaScript"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f97a69fb-866b-4f59-bbea-8c217d1fc1d8</dc:identifier>
+        <dc:title>Einstieg in Python</dc:title>
+        <dc:creator opf:file-as="Thomas Theis" opf:role="aut">Thomas Theis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-15T06:52:36.166891+00:00</dc:date>
+        <dc:description>&lt;p&gt;Einsteiger werden Schritt für Schritt in das Programmieren mit der plattformunabhängigen Programmiersprache Python (Version 3.6) eingeführt. Berücksichtigt wird das Zusammenspiel mit dem Rapsberry Pi.&lt;/p&gt;</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">O3JGAQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836245258</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>100 % Python für Anfänger und Umsteiger</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Theis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-09T22:49:36+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

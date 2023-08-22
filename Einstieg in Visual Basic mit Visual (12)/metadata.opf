@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44de57ef-4a63-4bea-bf35-46719a520ea6</dc:identifier>
+        <dc:title>Einstieg in Visual Basic mit Visual Studio 2022: Ideal für alle, die mit dem Programmieren anfangen</dc:title>
+        <dc:creator opf:file-as="Thomas Theis" opf:role="aut">Thomas Theis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T06:53:26+00:00</dc:date>
+        <dc:description>Sie möchten das Programmieren mit Visual Basic lernen? Dann führt Sie dieses Buch schnell und sicher zum Ziel. An anschaulichen und leicht nachvollziehbaren Beispielen lernen Sie alle wichtigen Themen kennen: Grundlagen zu Variablen, Operatoren, Schleifen und Co., objektorientierte Programmierung, GUI-Programmierung mit Windows Forms, Fehlerbehandlung und Entwicklung von Datenbankanwendungen. Auch in die Entwicklung von GUIs mit der Windows Presentation Foundation werden Sie eingeführt.Ausführliche Schritt-für-Schritt-Anleitungen und regelmäßige Zusammenfassungen sichern Ihren Lernerfolg. Ihr neu gewonnenes Wissen können Sie an einer Vielzahl von Übungsaufgaben unter Beweis stellen und an Musterlösungen überprüfen. So werden Sie schon bald selbstständig eigene Windows-Programme entwickeln.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836290647</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DsATzwEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Der leichte Einstieg in Visual Basic</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Theis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-10T16:01:40+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in Visual Basic mit Visual Studio 2022: Ideal für alle, die mit dem Programmieren anfangen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

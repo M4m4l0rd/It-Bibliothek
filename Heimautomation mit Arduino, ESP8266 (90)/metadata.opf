@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d2ec33b-0c5b-4a25-99ff-2116ebb0d438</dc:identifier>
+        <dc:title>Heimautomation mit Arduino, ESP8266 und Raspberry Pi: Das eigene Heim als Smart Home für Heimwerker, Bastler und Maker</dc:title>
+        <dc:creator opf:file-as="Brühlmann, Thomas" opf:role="aut">Thomas Brühlmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-25T19:48:44.649153+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Das eigene Heim als Smart Home für Heimwerker, Bastler und Maker&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einsatz von Sensoren wie Licht-, Umwelt- und Barometersensoren sowie Raspberry Pi als Schaltzentrale&lt;/li&gt;
+&lt;li&gt;Verwendung fertiger Module wie Bewegungsmelder, Kontakte und Rauchmelder&lt;/li&gt;
+&lt;li&gt;Einsatz einfacher selbst gebauter Elektronik-Module&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit diesem umfassenden Praxis-Handbuch erfahren Sie, wie Sie Ihr Heim selbst automatisieren können.&lt;/p&gt;
+&lt;p&gt;Anhand zahlreicher Beispiele lernen Sie Schritt für Schritt die Umsetzung verschiedener Projekte wie z.B. 433-MHz-Sender und -Empfänger, IoT-Gateway mit 433 MHz, drahtlose Infrarot-Fernsteuerung für den Fernseher, Wettermodul, drahtlose Klingel, Strom- und Briefkastenwächter und Aquarium-Timer.&lt;/p&gt;
+&lt;p&gt;Der Autor zeigt Ihnen die praktischen Einsatzmöglichkeiten verschiedener Sensoren und Aktoren im Smart Home wie Licht-, Umwelt- und Barometersensor. Dabei werden zum einen selbst gebaute einfache Elektronik-Module mit Arduino, ESP8266 und Wemos-Modulen realisiert und über eine Schaltzentrale mit Raspberry Pi gesteuert. Zum anderen werden fertige Module wie Bewegungsmelder, Kontakte oder Rauchmelder über einfache Gateways ins System integriert. Dabei wird für die Zentrale Node-Red verwendet, um die Daten und Zustände zu verarbeiten und zu visualisieren.&lt;/p&gt;
+&lt;p&gt;Jedes einzelne Projekt wird mit Stückliste und Steckbrett-Aufbau ausführlich dargestellt und beschrieben.&lt;/p&gt;
+&lt;p&gt;Dieses Buch richtet sich an Bastler und Maker, die bereits etwas Erfahrung mit Arduino und Raspberry Pi gesammelt haben und nun praktische Anwendungen in ihrem Heim aufbauen möchten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inhalte und Projekte:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IoT-Hardware mit Arduino, ESP8266 und Raspberry Pi&lt;/li&gt;
+&lt;li&gt;Arduino IDE und Node-Red&lt;/li&gt;
+&lt;li&gt;Die Protokolle HTTP und MQTT&lt;/li&gt;
+&lt;li&gt;Arduino als Sensormodul&lt;/li&gt;
+&lt;li&gt;Schaltmodule mit Tasmota-Firmware&lt;/li&gt;
+&lt;li&gt;Node-Red als Schaltzentrale&lt;/li&gt;
+&lt;li&gt;Wettermodul mit Licht-, Umwelt- und Barometersensor&lt;/li&gt;
+&lt;li&gt;433-MHz-Sender und -Empfänger&lt;/li&gt;
+&lt;li&gt;IoT-Gateway mit 433 MHz&lt;/li&gt;
+&lt;li&gt;ESP8266 als RF-Gateway&lt;/li&gt;
+&lt;li&gt;Node-Red-Schaltzentrale mit Arduino-Interface&lt;/li&gt;
+&lt;li&gt;Drahtlose Infrarot-Fernsteuerung für den Fernseher&lt;/li&gt;
+&lt;li&gt;Drahtlose Klingel&lt;/li&gt;
+&lt;li&gt;Analog-Wandler-Modul&lt;/li&gt;
+&lt;li&gt;Homeautomation-Plattformen&lt;/li&gt;
+&lt;li&gt;Briefkastenwächter&lt;/li&gt;
+&lt;li&gt;Stromwächter&lt;/li&gt;
+&lt;li&gt;Aquarium-Timer&lt;/li&gt;
+&lt;li&gt;Leuchtstreifensteuerung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Über den Autor:&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Thomas Brühlmann arbeitet als Consultant und hat langjährige Erfahrung in der Hardware- und Softwareentwicklung. Nebenbei realisiert er Projekte mit Open-Source-Hardware, hält Vorträge und führt Workshops durch. In seinem Blog unter arduino-praxis.ch verfolgt er die aktuelle Entwicklung des Arduino-Projektes und publiziert Projekte, Anwendungen, Tipps und Tricks.  &lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958456730</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_xYgEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08XLT2H15</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>Mainframes &amp; Minicomputers</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Electronics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Brühlmann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-29T19:47:49.331926+00:00"/>
+        <meta name="calibre:title_sort" content="Heimautomation mit Arduino, ESP8266 und Raspberry Pi: Das eigene Heim als Smart Home für Heimwerker, Bastler und Maker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

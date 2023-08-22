@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5ad2da6-f62f-4e88-943c-01b3b08a86cb</dc:identifier>
+        <dc:title>Einstieg in Linux: Linux verstehen und einsetzen</dc:title>
+        <dc:creator opf:file-as="Wendzel, Steffen &amp; Plötner, Johannes" opf:role="aut">Steffen Wendzel</dc:creator>
+        <dc:creator opf:file-as="Wendzel, Steffen &amp; Plötner, Johannes" opf:role="aut">Johannes Plötner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-15T06:52:56+00:00</dc:date>
+        <dc:description>Die 8., aktualisierte Auflage des Linux-Bestsellers! Dieses Buch ist für Linux-Einsteiger geeignet, die die Möglichkeiten des Betriebssystems voll ausschöpfen möchten und keine Angst haben vor Administration, Shell oder Netzwerkkonfiguration. Sie erfahren alles Wichtige zu Installation, grundlegender Funktionsweise von Linux, Bootstrap-Vorgang, Programmen und Prozessen, Administration, Shell, vi, Netzwerken, Drucken und Textverarbeitung sowie Multimedia. Kurzum alles, was Sie brauchen, um sicher unter und mit Linux zu arbeiten und gängige Anwendersoftware (wie LibreOffice.org, LaTeX, KDE u.v.m.) laufen zu lassen. Darüber hinaus bieten Wendzel und Plötner neben der Einführung eine wahre Fundgrube an Tipps und Kniffen für Ihren Linux-Alltag - nicht zuletzt in einem separaten Kapitel zum derzeit wohl hellsten Stern am Linux-Himmel: dem Raspberry-Pi!</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836267700</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AvDQzQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>So geht Linux!</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steffen Wendzel&quot;: &quot;&quot;, &quot;Johannes Plötner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-10T07:42:30+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in Linux: Linux verstehen und einsetzen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

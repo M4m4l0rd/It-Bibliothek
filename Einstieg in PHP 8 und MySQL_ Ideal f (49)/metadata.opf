@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a6f5dca-928d-43dd-a41b-c3dcaf224e0e</dc:identifier>
+        <dc:title>Einstieg in PHP 8 und MySQL: Ideal für Programmieranfänger</dc:title>
+        <dc:creator opf:file-as="Thomas Theis" opf:role="aut">Thomas Theis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T09:23:33+00:00</dc:date>
+        <dc:description>&lt;p&gt;Mit diesem Buch lernen Sie schnell und praxisnah, wie Sie dynamische Webseiten mit PHP und MySQL (oder mit MariaDB) entwickeln. Schritt für Schritt zeigt Ihnen unser Autor Thomas Theis anhand leicht nachvollziehbarer und sofort einsetzbarer Beispiele, wie Sie mit PHP programmieren und auf Datenbanken zugreifen. Es werden alle Themen behandelt, die Sie zum Erstellen von Blogs, Webshops, Chats, Foren u. Ä. benötigen. Ein Programmierkurs am Anfang des Buches stellt sicher, dass auch Programmieranfänger problemlos einsteigen können.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aus dem Inhalt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Grundlagen&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PHP-Programmierkurs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daten senden und auswerten&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Datenbanken anlegen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Objektorientiert programmieren&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fortgeschrittene Techniken&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepared Statements&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constructor Property Promotion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Callbacks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Multibyte-Funktionen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;XML und Ajax&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sicherheit erhöhen &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verschlüsselungen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hilfen&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Installation des lokalen Webservers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HTML-Crashkurs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hinweise für Windows- Mac- und Ubuntu-Nutzer&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836275330</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B097HSH1YJ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7UdizgEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Dynamische Webseiten selbst entwickeln</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Theis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T08:52:55+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in PHP 8 und MySQL: Ideal für Programmieranfänger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1a8c712-535e-48c4-9715-9c1ab72c780a</dc:identifier>
+        <dc:title>Grundkurs Theoretische Informatik</dc:title>
+        <dc:creator opf:file-as="Stefan Neubert" opf:role="aut">Stefan Neubert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-15T06:55:58.392916+00:00</dc:date>
+        <dc:description>Theoretische Informatik – der Vorlesungsbegleiter. Berechenbarkeit, formale Sprachen, Algorithmik und Komplexitätstheorie sind theoretische Themen mit praktischer Relevanz, zu denen es ebenso praktische Zugänge gibt. Freuen Sie sich auf eine moderene Didaktik, die streng Formales mit Ihrer Intuition verknüpft, lernfreundlich ausarbeitet und schließlich zu jedem Thema Anwendungsfelder der Informatik vorstellt. Stefan Neubert hat nicht nur selbst Freude an der theoretischen Informatik, sondern widmet sich auch mit Leidenschaft ihrer Vermittlung zu Beginn und im Laufe des Bachelorstudiums. Eine Einführung mit vielen Aufgaben und Beispielen, auch zum Selbststudium geeignet.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836275897</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-qiIzgEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Theoretische Informatik kann Spaß machen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stefan Neubert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:32.816659+00:00"/>
+        <meta name="calibre:title_sort" content="Grundkurs Theoretische Informatik"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

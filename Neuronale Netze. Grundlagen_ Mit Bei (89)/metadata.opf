@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff38c925-68c7-40e9-a96b-24d2ace9acc8</dc:identifier>
+        <dc:title>Neuronale Netze. Grundlagen: Mit Beispielprogrammen in Java</dc:title>
+        <dc:creator opf:file-as="Kaffka, Thomas" opf:role="aut">Thomas Kaffka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-25T19:48:51.180003+00:00</dc:date>
+        <dc:description>&lt;p&gt;Von den ersten Modellen bis zum Backpropagation-NetzAllgemeinverständliche Erläuterungen mit vielen Praxis- und AnwendungsbeispielenZahlreiche Programme zum Ausprobieren, Ausführen und Trainieren Neuronaler Netze mit BeispieldatenFür Programmierer: Vollständige Programmierung eines Backpropagation-Netzes zur Passworterkennung (in Java)Dieses Buch ist eine grundlegende Einführung in die Entwicklung und Funktionsweise Neuronaler Netze. Sie lernen verschiedene Modelle kennen sowie alle Elemente, die für die Funktionalität Neuronaler Netze von Bedeutung sind. So werden Sie im Detail verstehen, wie diese arbeiten.&lt;/p&gt;
+
+&lt;p&gt;Praxisansatz des Buches:• Alle vorgestellten Netze werden beispielhaft anschaulich durchgerechnet. So können Sie nachvollziehen, wie ein Neuronales Netz funktioniert und arbeitet.• Außerdem liefert der Autor zusätzlich zum Buch selbst erstellte Programme, mit denen Sie am PC experimentieren können, indem Sie Beispieldaten eingeben und die jeweiligen Eigenschaften der unterschiedlichen Netze praktisch ausprobieren sowie diese trainieren und ausführen können.&lt;/p&gt;
+
+&lt;p&gt;Kaffka beschreibt zunächst die frühesten Modelle Neuronaler Netze sowie die Hebbsche Formel und das von Rosenblatt entwickelte Modell des Perzeptrons. Daraufhin geht er auf die Mustererkennung mit einem Hopfield-Netz ein und erläutert die Grundlagen eines einfachen und eines bidirektionalen Assoziativspeichers.&lt;/p&gt;
+
+&lt;p&gt;Schließlich behandelt Kaffka das aktuelle Modell des Backpropagation-Netzes. Sie lernen im Detail, wie ein solches Neuronales Netz funktioniert – von der Netztopologie über die Transferfunktion bis zur Lernformel zum Trainieren eines Netzes.&lt;/p&gt;
+
+&lt;p&gt;Darauf aufbauend stellt der Autor verschiedene Beispiele und Anwendungen für Neuronale Netze vor. Hier diskutiert er zusätzlich, wie diese im Rahmen der Regressionsanalyse eingesetzt werden können. Zudem wird gezeigt, dass Neuronale Netze auch drei- oder mehrdimensionale Funktionen erlernen können.&lt;/p&gt;
+
+&lt;p&gt;Ein Ausblick zu Expertensystemen im Vergleich zu Neuronalen Netzen rundet die Einführung ab.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958456099</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Kk87DwAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Kaffka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-29T19:47:42.070996+00:00"/>
+        <meta name="calibre:title_sort" content="Neuronale Netze. Grundlagen: Mit Beispielprogrammen in Java"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

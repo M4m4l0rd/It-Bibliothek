@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11cb91f1-2f14-4c33-b2d2-848ebb871e1a</dc:identifier>
+        <dc:title>Algorithmen und Datenstrukturen</dc:title>
+        <dc:creator opf:file-as="Ottmann, Thomas &amp; Widmayer, Peter" opf:role="aut">Thomas Ottmann</dc:creator>
+        <dc:creator opf:file-as="Ottmann, Thomas &amp; Widmayer, Peter" opf:role="aut">Peter Widmayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-16T23:31:39+00:00</dc:date>
+        <dc:description>&lt;p&gt;Dieses bestens eingeführte Lehrbuch wendet sich an Studierende der Informatik in Grund- und Hauptstudium. Es behandelt gut verständlich alle Themen, die üblicherweise in der Standardvorlesung "Algorithmen und Datenstrukturen” vermittelt werden. Die einzelnen Algorithmen werden theoretisch fundiert dargestellt; ihre Funktionsweise wird ausführlich anhand vieler Beispiele erläutert. Zusätzlich zur halbformalen Beschreibung werden wichtige Algorithmen in Java formuliert. Das Themenspektrum reicht von Algorithmen zum Suchen und Sortieren über Hashverfahren, Bäume, Manipulation von Mengen bis hin zu Geometrischen Algorithmen und Graphenalgorithmen. Dabei werden sowohl der Entwurf effizienter Algorithmen und Datenstrukturen als auch die Analyse ihres Verhaltens mittels mathematischer Methoden behandelt. Durch eine übersichtliche Gliederung, viele Abbildungen und eine präzise Sprache gelingt den Autoren in vorbildlicher Weise die Vermittlung des vielschichtigen Themengebiets. Die 5. Auflage ist vollständig durchgesehen und überarbeitet. Neu aufgenommen wurden Einführungen in die Themen Dynamisches Programmieren, Backtracking, Onlinealgorithmen, Approximationsalgorithmen sowie einige Algorithmen für spezielle Probleme wie die schnelle Multiplikation von Matrizen, von ganzen Zahlen, und die Konstruktion der konvexen Hülle von Punkten in der Ebene.&lt;/p&gt;
+
+&lt;p&gt;Das Buch eignet sich zur Vorlesungsbegleitung, zum Selbststudium und zum Nachschlagen. Eine Vielzahl von Aufgaben dient der weiteren Vertiefung des Gelernten. Unter http://ad.informatik.uni-freiburg.de/bibliothek/books/ad-buch/ werden Java-Programme für die wichtigsten Algorithmen und ergänzende Materialien zum Buch bereitgestellt.&lt;/p&gt;</dc:description>
+        <dc:publisher>Springer-Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">YOXMtAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783662556498</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Ottmann&quot;: &quot;&quot;, &quot;Peter Widmayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T23:29:49+00:00"/>
+        <meta name="calibre:title_sort" content="Algorithmen und Datenstrukturen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

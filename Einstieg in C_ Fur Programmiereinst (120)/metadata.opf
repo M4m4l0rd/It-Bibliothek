@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b15be27b-3668-4938-8397-2430afa42ed8</dc:identifier>
+        <dc:title>Einstieg in C: Für Programmiereinsteiger geeignet</dc:title>
+        <dc:creator opf:file-as="Thomas Theis" opf:role="aut">Thomas Theis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-15T06:55:40.275028+00:00</dc:date>
+        <dc:description>&lt;p&gt;Mit diesem Lernkurs steigen Sie mühelos in die C-Programmierung ein. An vielen Beispielen und Übungen erklärt Ihnen Thomas Theis alle Grundlagen besonders praxisnah. Dieses Buch ist sehr einsteigerfreundlich, es führt Sie Schritt für Schritt an die Programmiersprache C heran und ist auch für Lernende ohne Programmierkenntnisse gut verständlich. In kürzester Zeit entwickeln Sie selbstständig Programme - und Ihr Abenteuer C-Programmierung kann beginnen! C-Programmierung verständlich erklärt - ohne Vorwissen!, Alle Sprachgrundlagen und wichtigen Programmiertechniken, Mit vielen Beispielen und Übungsaufgaben.&lt;/p&gt;</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836275705</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8mujzQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Der leichte Einstieg in die C-Programmierung</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Theis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:51:29.948976+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in C: Für Programmiereinsteiger geeignet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

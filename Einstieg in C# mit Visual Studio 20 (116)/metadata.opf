@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19b26029-7a06-4745-992b-7e8cc2570ac4</dc:identifier>
+        <dc:title>Einstieg in C# mit Visual Studio 2022: Ideal für Programmieranfänger</dc:title>
+        <dc:creator opf:file-as="Theis, Thomas" opf:role="aut">Thomas Theis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-15T06:56:03.870644+00:00</dc:date>
+        <dc:description>Sie möchten das Programmieren mit C# lernen? Dann führt Sie dieses Buch schnell und sicher zum Ziel. Anhand anschaulicher und leicht nachvollziehbarer Beispiele werden alle wichtigen Themen erläutert: Grundlagen zu Variablen, Operatoren, Schleifen und Co., objektorientierte Programmierung, Fehlerbehandlung, Erstellen von Datenbankanwendungen. Auch in die Entwicklung von GUIs mit der Windows Presentation Foundation werden Sie eingeführt.Ausführliche Schritt-für-Schritt-Anleitungen und regelmäßige Zusammenfassungen sichern Ihren Lernerfolg. Die praktische Umsetzung können Sie mit zahlreichen Übungsaufgaben trainieren.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">6AGkzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836288354</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Der leichte Einstieg in C#</dc:subject>
+        <dc:subject>C#</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Theis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:30.380207+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in C# mit Visual Studio 2022: Ideal für Programmieranfänger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>
