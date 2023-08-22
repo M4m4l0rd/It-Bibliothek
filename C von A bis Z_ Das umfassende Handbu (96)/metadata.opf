@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c06cb886-ff9d-4177-8b78-75adc65cce58</dc:identifier>
+        <dc:title>C von A bis Z: Das umfassende Handbuch</dc:title>
+        <dc:creator opf:file-as="Wolf, Jürgen &amp; Krooß, René" opf:role="aut">Jürgen Wolf</dc:creator>
+        <dc:creator opf:file-as="Wolf, Jürgen &amp; Krooß, René" opf:role="aut">René Krooß</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-15T11:52:38.149448+00:00</dc:date>
+        <dc:description>Unser beliebter Klassiker neu aufgelegt! Zum aktuellen Standard und mit einem Autorenteam aus Praxis und Lehre. Ansonsten bleibt aus gutem Grund vieles beim Alten. Lassen Sie sich umfassend einführen oder nutzen Sie das Buch als Nachschlagewerk. Von den Grundlagen über die dynamische Speicherverwaltung bis zur plattformübergreifenden Entwicklung. Randvoll mit hilfreichen Beispielen und Praxistipps – C-Wissen pur!</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836239745</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">U3z0zQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Hochdosiertes C-Wissen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jürgen Wolf&quot;: &quot;&quot;, &quot;René Krooß&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T11:49:03.766589+00:00"/>
+        <meta name="calibre:title_sort" content="C von A bis Z: Das umfassende Handbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

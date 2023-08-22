@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1f78762-1ef6-43cb-8346-6b73167c6643</dc:identifier>
+        <dc:title>PHP &amp; MySQL Schnelleinstieg: Programmieren lernen in 14 Tagen. Einfach und ohne Vorkenntnisse</dc:title>
+        <dc:creator opf:file-as="Rieber, Philipp" opf:role="aut">Philipp Rieber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T16:45:05.825101+00:00</dc:date>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">z3-izgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783747503959</dc:identifier>
+        <dc:language>deu</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Philipp Rieber&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T16:42:28.428363+00:00"/>
+        <meta name="calibre:title_sort" content="PHP &amp; MySQL Schnelleinstieg: Programmieren lernen in 14 Tagen. Einfach und ohne Vorkenntnisse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

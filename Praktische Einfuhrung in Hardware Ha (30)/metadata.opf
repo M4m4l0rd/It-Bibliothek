@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48ed4e11-41f9-41c1-b2c0-c551034d02a3</dc:identifier>
+        <dc:title>Praktische Einführung in Hardware Hacking: Sicherheitsanalyse und Penetration Testing für IoT-Geräte und Embedded Devices</dc:title>
+        <dc:creator opf:file-as="Mangel, Marcel &amp; Bicchi, Sebastian" opf:role="aut">Marcel Mangel</dc:creator>
+        <dc:creator opf:file-as="Mangel, Marcel &amp; Bicchi, Sebastian" opf:role="aut">Sebastian Bicchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-16T06:56:18.933008+00:00</dc:date>
+        <dc:description>&lt;p&gt;Schwachstellen von IoT- und Smart-Home-Geräten aufdeckenHardware, Firmware und Apps analysieren und praktische Tests durchführenZahlreiche Praxisbeispiele wie Analyse und Hacking elektronischer Türschlösser, smarter LED-Lampen u.v.m.&lt;/p&gt;
+
+&lt;p&gt;Smarte Geräte sind allgegenwärtig und sie sind leicht zu hacken – umso mehr sind Reverse Engineers und Penetration Tester gefragt, um Schwachstellen aufzudecken und so Hacking-Angriffen und Manipulation vorzubeugen.&lt;/p&gt;
+
+&lt;p&gt;In diesem Buch lernen Sie alle Grundlagen des Penetration Testings für IoT-Geräte. Die Autoren zeigen Schritt für Schritt, wie ein Penetrationstest durchgeführt wird: von der Einrichtung des Testlabors über die OSINT-Analyse eines Produkts bis hin zum Prüfen von Hard- und Software auf Sicherheitslücken – u.a. anhand des OWASP-Standards. Sie erfahren darüber hinaus, wie Sie die Firmware eines IoT-Geräts extrahieren, entpacken und dynamisch oder statisch analysieren. Auch die Analyse von Apps, Webapplikationen und Cloudfunktionen wird behandelt. Außerdem finden Sie eine Übersicht der wichtigsten IoT-Protokolle und ihrer Schwachstellen.&lt;/p&gt;
+
+&lt;p&gt;Es werden nur grundlegende IT-Security-Kenntnisse (insbesondere in den Bereichen Netzwerk- und Applikationssicherheit) und ein sicherer Umgang mit Linux vorausgesetzt. Die notwendigen Elektronik- und Hardwaredesign-Grundlagen geben Ihnen die Autoren mit an die Hand.&lt;/p&gt;
+
+&lt;p&gt;Aus dem Inhalt:Testumgebung einrichtenVorbereitende OSINT-AnalyseElektronik-GrundlagenEinführung in das Hardware-Design von IoT-Geräten:8-/32-Bit-ControllerAndroid Embedded DevicesAll-in-One SoCHardware-Analyse und Extraktion von FirmwareDateisysteme von IoT-GerätenStatische und dynamische Firmware-AnalyseIoT-Protokolle und ihre Schwachstellen:Bluetooth LEZigBeeMQTTApp-Analyse anhand des OWASP-StandardsTesten von Backend-Systemen, Webapplikationen und Cloud-Umgebungen&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958458185</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vGrEDwAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marcel Mangel&quot;: &quot;&quot;, &quot;Sebastian Bicchi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-15T06:50:13.026182+00:00"/>
+        <meta name="calibre:title_sort" content="Praktische Einführung in Hardware Hacking: Sicherheitsanalyse und Penetration Testing für IoT-Geräte und Embedded Devices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

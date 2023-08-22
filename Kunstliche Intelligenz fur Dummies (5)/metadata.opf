@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5460641-cd72-4904-a9bb-0937acdf0b47</dc:identifier>
+        <dc:title>Künstliche Intelligenz für Dummies</dc:title>
+        <dc:creator opf:file-as="Otte, Ralf" opf:role="aut">Ralf Otte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-05T06:55:47.912240+00:00</dc:date>
+        <dc:description>&lt;p&gt;Künstliche Intelligenz begegnet uns immer mehr im täglichen Leben. Egal ob intelligente Autos, Roboter, Chatbots oder Systeme, die uns im Schach und Go besiegen, KI wird immer wichtiger. Ralf Otte beschreibt präzise und dennoch einfach diejenigen Algorithmen, die all das ermöglicht haben, erläutert Beispielanwendungen aus der Industrie, erklärt die zugrundeliegende Mathematik und zeigt darüber hinaus klare Grenzen für die Künstliche Intelligenz der nächsten Jahre auf. Egal ob Informatiker oder nicht, um dieses Buch zu verstehen genügt Mathematikwissen auf Oberstufenniveau.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">L82bDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783527815845</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07SQBJYR5</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralf Otte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-09T18:33:07+00:00"/>
+        <meta name="calibre:title_sort" content="Künstliche Intelligenz für Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

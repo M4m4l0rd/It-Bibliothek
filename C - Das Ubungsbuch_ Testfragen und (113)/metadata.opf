@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75d18fc6-1f1b-46bd-948f-afa0af8c173c</dc:identifier>
+        <dc:title>C - Das Übungsbuch: Testfragen und Aufgaben mit Lösungen</dc:title>
+        <dc:creator opf:file-as="Peter Prinz" opf:role="aut">Peter Prinz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Trainieren Sie Ihre C-KenntnisseMit kommentierten MusterlösungenFür Studium und SelbststudiumDieses Übungsbuch wendet sich an Leser, die ihre C-Kenntnisse durch »Learning by Doing« erwerben und vertiefen möchten. Es ist ideal, um sich anhand von Übungen auf Prüfungen oder auf die Mitarbeit in einem C-Projekt vorzubereiten.&lt;/p&gt;
+
+&lt;p&gt;Der Aufbau des Buches entspricht dem eines C-Lernbuches, beginnt also mit den Grundlagen und endet mit den komplexeren Themen. Es ist für alle Leser mit grundlegenden C-Kenntnissen geeignet.&lt;/p&gt;
+
+&lt;p&gt;Alle Kapitel beginnen mit einer Zusammenfassung des Stoffes, zu dem anschließend Fragen und Aufgaben gestellt werden. Jedes Kapitel besteht neben der einführenden Beschreibung des Themas aus drei weiteren Teilen: Verständnisfragen, Programmieraufgaben und Musterlösungen zu allen Fragen und Aufgaben.&lt;/p&gt;
+
+&lt;p&gt;Mit den Verständnisfragen können Sie testen, wie gut Sie sich in dem jeweiligen Themenbereich auskennen. Dabei treffen Sie auf Ja-Nein-Fragen, Multiple-Choice-Fragen und Aussagen, die vervollständigt werden müssen. Im Aufgabenteil können Sie dann Ihr Wissen praktisch umsetzen. In jedem Kapitel gibt es mindestens zehn Aufgaben mit steigendem Schwierigkeitsgrad. Bei der Auswahl der Problemstellungen für Aufgaben wurde stets darauf geachtet, dass diese typisch und praxisnah sind.&lt;/p&gt;
+
+&lt;p&gt;Umfangreich kommentierte Musterlösungen am Ende eines Kapitels geben Ihnen ein direktes und ausführliches Feedback zu Ihren Lösungsansätzen. Nach dem Durcharbeiten des Buches verfügen Sie über fundierte Programmierkenntnisse und einen umfangreichen Fundus an Beispiel-Code.&lt;/p&gt;
+
+&lt;p&gt;Zum kostenlosen Download: Musterlösungen zu den Aufgaben&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958458963</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Znl1DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3958458963</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>C</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Prinz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:19.375647+00:00"/>
+        <meta name="calibre:title_sort" content="C - Das Übungsbuch: Testfragen und Aufgaben mit Lösungen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

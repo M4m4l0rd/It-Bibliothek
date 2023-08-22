@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">669c0016-7f87-4ca0-bec2-651771e84850</dc:identifier>
+        <dc:title>Daten- und Prozessanalyse für Fachinformatiker*innen</dc:title>
+        <dc:creator opf:file-as="Sascha Kersken" opf:role="aut">Sascha Kersken</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T09:24:25.827402+00:00</dc:date>
+        <dc:description>Alles über den neuen Fachinformatik-Ausbildungsgang Daten- und Prozessanalyse. Worauf es dabei ankommt, zeigt Auszubildenden dieser Fachrichtung dieses neue Lehr- und Praxisbuch. Mathematische Grundlagen, Einführung in die Programmierung, Algorithmen und insbesondere Machine-Learning-Verfahren werden ebenso behandelt wie die Geschäftsprozessanalyse. Für alle Themen kommen praxiserprobte Sprachen, Tools und Bibliotheken zum Einsatz. Inkl. zahlreicher Übungsaufgaben</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836281133</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YUV0zwEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Ideal für Aus- und Weiterbildung</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sascha Kersken&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T08:35:59.865422+00:00"/>
+        <meta name="calibre:title_sort" content="Daten- und Prozessanalyse für Fachinformatiker*innen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

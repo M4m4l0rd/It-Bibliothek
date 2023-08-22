@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20e530d6-fa27-4a1b-9f4d-32749c238730</dc:identifier>
+        <dc:title>Künstliche Intelligenz verstehen: Eine spielerische Einführung in die KI</dc:title>
+        <dc:creator opf:file-as="Noack, Pit &amp; Sanner, Sophia" opf:role="aut">Pit Noack</dc:creator>
+        <dc:creator opf:file-as="Noack, Pit &amp; Sanner, Sophia" opf:role="aut">Sophia Sanner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-15T12:43:11.649448+00:00</dc:date>
+        <dc:description>Neugierig auf KI? Dann sind Sie hier richtig! Es erwartet Sie weit mehr als ein Buch: Im Online-Angebot sehen Sie der KI dabei zu, wie sie Texte ergänzt, Daten sortiert, Zusammenhänge erkennt oder Spiele gewinnt – auch gegen Sie?Im Buch erfahren Sie, was hinter den Kulissen passiert: Sie lernen die grundlegenden Ideen kennen, die hinter einschlägigen KI-Verfahren stehen.Schritt für Schritt wird die Logik ebenso erklärt wie der JavaScript-Code. Über die Web-Programmierumgebung p5js können Sie sogar die Beispielprogramme direkt im Browser verändern und weiterentwickeln. Probieren Sie es aus und experimentieren Sie! So finden Sie einen Hands-On-Einstieg ins Fachgebiet KI, mit Vorschlägen zum Weiterprogrammieren und zum Üben sowie einem Glossar Mit Lerngrafiken und Cartoons von Sophia Sanner.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836284684</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Q1SvzwEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>zum Mitmachen und selbst Programmieren</dc:subject>
+        <dc:subject>KI-Algorithmen visuell</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pit Noack&quot;: &quot;&quot;, &quot;Sophia Sanner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-02T12:43:00.050454+00:00"/>
+        <meta name="calibre:title_sort" content="Künstliche Intelligenz verstehen: Eine spielerische Einführung in die KI"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

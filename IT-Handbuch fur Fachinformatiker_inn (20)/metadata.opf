@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">043db4d1-c165-4a1e-a62a-35480b6e6379</dc:identifier>
+        <dc:title>IT-Handbuch für Fachinformatiker*innen: Der Ausbildungsbegleiter</dc:title>
+        <dc:creator opf:file-as="Sascha Kersken" opf:role="aut">Sascha Kersken</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T06:51:48+00:00</dc:date>
+        <dc:description>Dieses Handbuch vermittelt alle Grundlagen der Informationstechnik, die angehende Fachinformatiker in ihrer Ausbildung benötigen: Computerhardware, Betriebssysteme, Netzwerktechnik, -protokolle und -anwendungen sowie Grundlagen der Programmierung, Datenbanken und Multimedia. Mit vielen Prüfungsfragen und Praxisübungen. Für die achte Auflage wurden die Themen Webentwicklung, JavaScript und Ajax vollständig neu bearbeitet.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">f1l1zwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836281324</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Das Standardwerk für die Ausbildung</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-15T06:49:17+00:00"/>
+        <meta name="calibre:title_sort" content="IT-Handbuch für Fachinformatiker*innen: Der Ausbildungsbegleiter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

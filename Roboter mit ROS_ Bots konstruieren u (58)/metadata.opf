@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecca7dbe-162a-4d48-bb9d-54af317a3c9e</dc:identifier>
+        <dc:title>Roboter mit ROS: Bots konstruieren und mit Open Source programmieren</dc:title>
+        <dc:creator opf:file-as="Calis, Murat" opf:role="aut">Murat Calis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-25T23:31:18.192532+00:00</dc:date>
+        <dc:description>&lt;p&gt;Bauen Sie Ihren Roboter - mit professionellen Tools  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Robotik praktisch erklärt&lt;/li&gt;
+&lt;li&gt;Robot Operating System (ROS) kennen lernen und für eigene Prototypen einsetzen&lt;/li&gt;
+&lt;li&gt;Simulation, Konstruktion und Programmierung&lt;/li&gt;
+&lt;li&gt;zwei Roboter-Selbstbauprojekte für Bots mit fortgeschrittenen Fähigkeiten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit diesem Buch erweitern Sie Ihr Verständnis für Robotik, können Entwicklungsschritte von der Simulation bis zur Programmierung selbst ausprobieren und lernen, außergewöhnliche Bots für eigene Anwendungszwecke zu konstruieren. Für die Steuerung führt Sie Murat Calis in das Robot Operating System (ROS) ein. Dieses Buch präsentiert die Möglichkeiten der Software auf verständliche Weise. So wird das Steuerungs-Framework nach kurzer Einarbeitung immer einfacher zu verstehen und zu bedienen.&lt;br /&gt;
+Murat Calis bietet in diesem Buch eine detaillierte Anleitung zur Erstellung eines virtuellen Prototyps und zeigt anschließend die Simulations- und Programmiermöglichkeiten mit ROS. Zwei Robotermodelle, die nachgebaut werden können, zeigen beispielhaft den Arbeitsfluss von der Idee zum Prototyp.&lt;br /&gt;
+Behandelt werden folgende Themen:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simulationen mit Gazebo&lt;/li&gt;
+&lt;li&gt;Kartografierung und Kinematik mit RViz&lt;/li&gt;
+&lt;li&gt;Autonome kollisionsfreie Navigation mit SLAM&lt;/li&gt;
+&lt;li&gt;Gesichtserkennung mit OpenCV&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sie lernen anhand der im Buch vorgestellten Robotermodelle das Publish-/Subscribe-Prinzip von ROS kennen. Nachdem Sie das Zusammenspiel unabhängiger Software-Module innerhalb eines Roboters verstanden haben, geht es spielerisch weiter, indem Sie die Roboter in einer Simulation starten oder eine virtuelle Welt kartografieren lassen. Die kommentierten Programmierbeispiele setzen Sie in die Lage, eigene Programme zu schreiben.&lt;/p&gt;</dc:description>
+        <dc:publisher>dpunkt.verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">MWLLDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783864905674</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08423FHS2</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Robotics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Murat Calis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-20T23:29:55.336818+00:00"/>
+        <meta name="calibre:title_sort" content="Roboter mit ROS: Bots konstruieren und mit Open Source programmieren"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

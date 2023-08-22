@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70dfc17d-7831-4f84-a430-707439db3b62</dc:identifier>
+        <dc:title>Einstieg in SQL: Für alle wichtigen Datenbanksysteme: MySQL, PostgreSQL, MariaDB, MS SQL. Ohne Vorkenntnisse einsteigen!</dc:title>
+        <dc:creator opf:file-as="Laube, Michael" opf:role="aut">Michael Laube</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-02T00:00:00+00:00</dc:date>
+        <dc:description>Den leichten Einstieg in SQL und die Datenmodellierung finden Sie hier! Schritt für Schritt führt Sie dieser Leitfaden durch den SQL-Befehlsschatz und macht Sie mit allen wichtigen Befehlen vertraut. Das Beherrschen der SQL-Befehle ist jedoch nur das Fundament. Darauf aufbauend lernen Sie, wie Sie Ihre Daten richtig modellieren, verknüpfen und bearbeiten. So schaffen Sie Ordnung und sorgen für performante Abfragen.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">GMxywwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836245630</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3836245639</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>nachschlagen</dc:subject>
+        <dc:subject>einsetzen</dc:subject>
+        <dc:subject>SQL: Verstehen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Laube&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-29T19:47:41.725308+00:00"/>
+        <meta name="calibre:title_sort" content="Einstieg in SQL: Für alle wichtigen Datenbanksysteme: MySQL, PostgreSQL, MariaDB, MS SQL. Ohne Vorkenntnisse einsteigen!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

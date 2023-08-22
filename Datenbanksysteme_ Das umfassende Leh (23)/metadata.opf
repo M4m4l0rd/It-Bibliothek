@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2cde068-1730-455b-a74c-aba1003308df</dc:identifier>
+        <dc:title>Datenbanksysteme: Das umfassende Lehrbuch für Ausbildung, Beruf und Studium</dc:title>
+        <dc:creator opf:file-as="Michael Kofler" opf:role="aut">Michael Kofler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T06:51:26+00:00</dc:date>
+        <dc:description>Datenbanken sind das Rückgrat moderner IT-Systeme. Wie Sie sicher mit ihnen arbeiten, zeigt Ihnen Dr. Michael Kofler in diesem umfassenden Handbuch. Sie lernen grundlegende Begriffe und Konzepte kennen, die Sie für gutes Datenbankdesign brauchen. Ein Schnellkurs in SQL zeigt Ihnen, wie Daten abgefragt und geändert werden, Praxiswissen zur Client-Entwicklung und DBMS-Administration machen Sie fit für den Berufsalltag, Übungen und anschauliche Beispiele helfen Ihnen beim Selbststudium und der Prüfungsvorbereitung.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CJzvzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836284226</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Das Handbuch für gutes Datenbankdesign</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-15T06:49:46+00:00"/>
+        <meta name="calibre:title_sort" content="Datenbanksysteme: Das umfassende Lehrbuch für Ausbildung, Beruf und Studium"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

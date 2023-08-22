@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f94cdcdc-6919-4c71-94ac-1a386fed8970</dc:identifier>
+        <dc:title>Machine Learning für Softwareentwickler: Von der Python-Codezeile zur Deep-Learning-Anwendung</dc:title>
+        <dc:creator opf:file-as="Perrotta, Paolo" opf:role="aut">Paolo Perrotta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-01T16:45:06.735106+00:00</dc:date>
+        <dc:description>&lt;p&gt;Eine Einführung in das maschinelle Lernen für Entwickler Alle wesentlichen Ideen, Werkzeuge und Konzepte des supervised Learning, von neuronalen Netzen und des Deep Learning werden präsentiert Der gesamte Programmcode ist in Python geschrieben&lt;/p&gt;</dc:description>
+        <dc:publisher>dpunkt.verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">5wT8DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783969100257</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paolo Perrotta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T16:42:25.536990+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning für Softwareentwickler: Von der Python-Codezeile zur Deep-Learning-Anwendung"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

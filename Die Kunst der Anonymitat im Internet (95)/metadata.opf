@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbd71093-fabd-446f-b29b-fca111375563</dc:identifier>
+        <dc:title>Die Kunst der Anonymität im Internet: So schützen Sie Ihre Identität und Ihre Daten</dc:title>
+        <dc:creator opf:file-as="Mitnick, Kevin D." opf:role="aut">Kevin D. Mitnick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-24T11:52:43.232790+00:00</dc:date>
+        <dc:description>&lt;p&gt;Ob Sie wollen oder nicht – jede Ihrer Online-Aktivitäten wird beobachtet und analysiert Sie haben keine Privatsphäre. Im Internet ist jeder Ihrer Klicks für Unternehmen, Regierungen und kriminelle Hacker uneingeschränkt sichtbar. Ihr Computer, Ihr Smartphone, Ihr Auto, Ihre Alarmanlage, ja sogar Ihr Kühlschrank bieten potenzielle Angriffspunkte für den Zugriff auf Ihre Daten.&lt;/p&gt;
+
+&lt;p&gt;Niemand kennt sich besser aus mit dem Missbrauch persönlicher Daten als Kevin Mitnick. Als von der US-Regierung ehemals meistgesuchter Computer-Hacker kennt er alle Schwachstellen und Sicherheitslücken des digitalen Zeitalters. Seine Fallbeispiele sind spannend und erschreckend: Sie werden Ihre Aktivitäten im Internet neu überdenken.&lt;/p&gt;
+
+&lt;p&gt;Mitnick weiß aber auch, wie Sie Ihre Daten bestmöglich schützen. Er zeigt Ihnen anhand zahlreicher praktischer Tipps und Schritt-für-Schritt-Anleitungen, was Sie tun können, um online und offline anonym zu sein.&lt;/p&gt;
+
+&lt;p&gt;Bestimmen Sie selbst über Ihre Daten. Lernen Sie, Ihre Privatsphäre im Internet zu schützen. Kevin Mitnick zeigt Ihnen, wie es geht.&lt;/p&gt;
+
+&lt;p&gt;Hinterlassen Sie keine Spuren● Sichere Passwörter festlegen und verwalten● Mit dem Tor-Browser im Internet surfen, ohne Spuren zu hinterlassen● E-Mails und Dateien verschlüsseln und vor fremden Zugriffen schützen● Öffentliches WLAN, WhatsApp, Facebook &amp;amp; Co. sicher nutzen● Sicherheitsrisiken vermeiden bei GPS, Smart-TV, Internet of Things und Heimautomation● Eine zweite Identität anlegen und unsichtbar werden&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958456372</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">hyFADwAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Online Safety &amp; Privacy</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kevin D. Mitnick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T11:48:59.169126+00:00"/>
+        <meta name="calibre:title_sort" content="Kunst der Anonymität im Internet: So schützen Sie Ihre Identität und Ihre Daten, Die"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

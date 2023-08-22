@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d6588f6-34c4-4165-8e63-b986515afa91</dc:identifier>
+        <dc:title>Raspberry Pi programmieren mit Python</dc:title>
+        <dc:creator opf:file-as="Weigend, Michael" opf:role="aut">Michael Weigend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-19T19:49:12.278319+00:00</dc:date>
+        <dc:description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Alle Python-Grundlagen für die Programmierung des Raspberry Pi 3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projekte mit Sensoren, Relais und AD-Wandlern&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Einsatz von Peripheriegeräten wie Kameramodul und Lautsprecher&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Der Raspberry Pi ist ein preiswerter und äußerst energiesparsamer Computer in der Größe einer Kreditkarte. In Kombination mit der Programmiersprache Python bietet er eine hervorragende Umgebung für die schnelle Realisierung technischer Ideen und Projekte. Außerdem ist Python – auch für Programmiereinsteiger – einfach zu lernen und deshalb Teil des Gesamtkonzepts des Raspberry Pi. Dieses Buch vermittelt Ihnen anhand vieler anschaulicher Beispiele sowohl die Grundlagen von Python als auch fortgeschrittene Techniken wie Objektorientierung, Internetprogrammierung und grafische Benutzungsoberflächen.&lt;/p&gt;
+&lt;p&gt;Nach dem Erlernen der Programmierkonzepte finden Sie besonders in der zweiten Hälfte des Buches eine Fülle von kleinen Projekten, die auf die besondere Hardware des Raspberry Pi und das Linux-Betriebssystem Raspbian zugeschnitten sind. Zur Vorbereitung jedes Projekts werden zunächst neue Elemente der Python-Programmierung eingeführt. Zahlreiche Illustrationen und einfache Beispiele zum Ausprobieren erleichtern das Verständnis.&lt;/p&gt;
+&lt;p&gt;Zu den vielfältigen Projekten im Buch gehören Schaltungen mit Sensoren (Temperatur, Licht, Kohlendioxid, Alkohol), Relais, AD-Wandlern und LEDs. Sie erfahren, wie man Peripheriegeräte wie das Kameramodul anschließt und den 1-Wire- sowie den SPI-Bus zur Datenkommunikation nutzt.&lt;/p&gt;
+&lt;p&gt;Am Ende jedes Kapitels finden Sie Aufgaben und Lösungen, mit denen Sie Ihr Wissen festigen, erweitern und vertiefen können.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aus dem Inhalt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Namen und Zuweisungen&lt;/li&gt;
+&lt;li&gt;Kontrollstrukturen&lt;/li&gt;
+&lt;li&gt;Kollektionen: Mengen, Listen, Tupel, Dictionaries&lt;/li&gt;
+&lt;li&gt;Verarbeitung von Strings&lt;/li&gt;
+&lt;li&gt;Funktionen&lt;/li&gt;
+&lt;li&gt;Grafische Benutzungsoberflächen&lt;/li&gt;
+&lt;li&gt;Dateien und Ressourcen aus dem Internet&lt;/li&gt;
+&lt;li&gt;Zeitfunktionen und Threads&lt;/li&gt;
+&lt;li&gt;Objektorientierte Programmierung&lt;/li&gt;
+&lt;li&gt;Webserver und CGI-Skripte&lt;/li&gt;
+&lt;li&gt;Einsatz von Datenbanken&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Projekte mit dem Raspberry Pi:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gerätesteuerung&lt;/li&gt;
+&lt;li&gt;Messwerterfassung und -visualisierung&lt;/li&gt;
+&lt;li&gt;Interaktive Spiele&lt;/li&gt;
+&lt;li&gt;Animationen und Simulationen&lt;/li&gt;
+&lt;li&gt;Automatische Textproduktion und Editoren&lt;/li&gt;
+&lt;li&gt;Digitale Bildverarbeitung&lt;/li&gt;
+&lt;li&gt;Morsezeichen senden und Signalmuster erkennen&lt;/li&gt;
+&lt;li&gt;Projekte mit OLED und Sense HAT&lt;/li&gt;
+&lt;li&gt;Farben und Bewegung wahrnehmen&lt;/li&gt;
+&lt;li&gt;Steuerung mit Potentiometer und AD-Wandler&lt;/li&gt;
+&lt;li&gt;Auswertung von Daten aus dem Internet&lt;/li&gt;
+&lt;li&gt;Webserver und interaktive Webcam&lt;/li&gt;
+&lt;/ul&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783747503850</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KDgvEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B095GTXDGH</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mainframes &amp; Minicomputers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Weigend&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-29T19:47:37.671832+00:00"/>
+        <meta name="calibre:title_sort" content="Raspberry Pi programmieren mit Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

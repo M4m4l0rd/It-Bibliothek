@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a04d608b-4f2f-4cb3-9b57-4ee0d4a97624</dc:identifier>
+        <dc:title>Python 3: Lernen und professionell anwenden. Das umfassende Praxisbuch</dc:title>
+        <dc:creator opf:file-as="Weigend, Michael" opf:role="aut">Michael Weigend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;- Einführung in alle Sprachgrundlagen: Klassen, Objekte, Vererbung, Kollektionen, Dictionaries- Benutzungsoberflächen und Multimediaanwendungen mit PyQt, Datenbanken, XML, Internet-Programmierung mit CGI, WSGI und Django- Wissenschaftliches Rechnen mit NumPy, parallele Verarbeitung großer Datenmengen, Datenvisualisierung mit Matplotlib- Übungen mit Musterlösungen zu jedem KapitelDie Skriptsprache Python ist mit ihrer einfachen Syntax hervorragend für Einsteiger geeignet, um modernes Programmieren zu lernen. Mit diesem Buch erhalten Sie einen umfassenden Einstieg in Python 3 und lernen darüber hinaus auch weiterführende Anwendungsmöglichkeiten kennen. Michael Weigend behandelt Python von Grund auf und erläutert die wesentlichen Sprachelemente. Er geht dabei besonders auf die Anwendung von Konzepten der objektorientierten Programmierung ein.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt liegt der Schwerpunkt auf der praktischen Arbeit mit Python. Ziel ist es, die wesentlichen Techniken und dahinterstehenden Ideen anhand zahlreicher anschaulicher Beispiele verständlich zu machen. Zu typischen Problemstellungen werden Schritt für Schritt Lösungen erarbeitet. So erlernen Sie praxisorientiert die Programmentwicklung mit Python und die Anwendung von Konzepten der objektorientierten Programmierung.&lt;/p&gt;
+
+&lt;p&gt;Alle Kapitel enden mit einfachen und komplexen Übungsaufgaben mit vollständigen Musterlösungen.&lt;/p&gt;
+
+&lt;p&gt;Der Autor wendet sich sowohl an Einsteiger als auch an Leser, die bereits mit einer höheren Programmiersprache vertraut sind.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958457911</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1biZEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3958457916</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Weigend&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:14.809143+00:00"/>
+        <meta name="calibre:title_sort" content="Python 3: Lernen und professionell anwenden. Das umfassende Praxisbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

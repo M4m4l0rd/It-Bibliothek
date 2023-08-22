@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8d5b636-b7e4-4c41-8716-c7a2d649dde9</dc:identifier>
+        <dc:title>Ubuntu 22.04 Schnelleinstieg: Der einfache Einstieg in die Linux-Welt</dc:title>
+        <dc:creator opf:file-as="Gödl, Robert" opf:role="aut">Robert Gödl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-22T09:24:37.625056+00:00</dc:date>
+        <dc:description>&lt;p&gt;- Ubuntu Linux ganz einfach und Schritt für Schritt installieren und einsetzen- Die Benutzeroberfläche GNOME kennenlernen und an die eigenen Bedürfnisse anpassen- Windows und Ubuntu parallel betreibenSteigen Sie mit Ubuntu ein in die Linux-Welt! Mit diesem Buch erhalten Sie eine leicht verständliche Schritt-für-Schritt-Anleitung für die Installation und den Einsatz der aktuellen Version Ubuntu 22.04 LTS.Sie lernen die verschiedenen Installationsmöglichkeiten von Ubuntu kennen (Live-Version, Fest-installation, Ubuntu als alleiniges oder als zweites Betriebssystem parallel zu Windows) und erfahren, wie Sie Ubuntu einrichten und an Ihre individuellen Bedürfnisse anpassen. Eine detaillierte Einführung in die Arbeitsoberfläche GNOME sowie ein Überblick über die vorinstallierte und beliebte Linux-Software ermöglicht es Ihnen, schnell und einfach auf Linux umzusteigen. Darüber hinaus erfahren Sie, wie Sie auch Software, die eigentlich für den Betrieb unter Windows gedacht ist, installieren können.&lt;/p&gt;
+
+&lt;p&gt;Eine Einführung in die wichtigsten Linux-Grundlagen wie die Datei- und Benutzerverwaltung, die Installation von Software (Paketverwaltung) sowie das Terminal runden diesen Praxiseinstieg ab. So sind Sie optimal darauf vorbereitet, alle im Alltag anfallenden Aufgaben problemlos mit Ubuntu zu meistern.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">deGDEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783747505670</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Linux</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Gödl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T08:35:56.324170+00:00"/>
+        <meta name="calibre:title_sort" content="Ubuntu 22.04 Schnelleinstieg: Der einfache Einstieg in die Linux-Welt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9db9a33-8fc8-4348-8197-ee18e6570ad6</dc:identifier>
+        <dc:title>Suchmaschinen-Optimierung: das umfassende Handbuch ; [Grundlagen, Funktionsweisen und strategische Planung ; Onpage- und Offpage-Optimierung für Google und Co. ; Erfolgsmessung, Web Analytics und Controlling]</dc:title>
+        <dc:creator opf:file-as="Sebastian Erlhofer" opf:role="aut">Sebastian Erlhofer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-15T06:51:08+00:00</dc:date>
+        <dc:description>Das Handbuch bietet Einsteigern und Fortgeschrittenen fundierte Informationen zu allen relevanten Bereichen der Suchmaschinen-Optimierung. Neben ausführlichen Details zur Planung und Erfolgsmessung reicht das Spektrum von der Keyword-Recherche, der Onpage-Optimierung über erfolgreiche Methoden des Linkbuildings bis hin zu Ranktracking und Monitoring. Anschauliche Beispiele ermöglichen Ihnen die schnelle Umsetzung in der Praxis, z. B. im Bereich Ladezeitoptimierung und Responsive Webdesign.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">OlVbLwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836218986</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Das SEO-Standardwerk</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Erlhofer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-15T06:49:53+00:00"/>
+        <meta name="calibre:title_sort" content="Suchmaschinen-Optimierung: das umfassende Handbuch ; [Grundlagen, Funktionsweisen und strategische Planung ; Onpage- und Offpage-Optimierung für Google und Co. ; Erfolgsmessung, Web Analytics und Controlling]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

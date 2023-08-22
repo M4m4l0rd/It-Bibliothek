@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">358e3dd2-0b72-4b52-8307-b229124f2a39</dc:identifier>
+        <dc:title>C++ Schnelleinstieg: Programmieren lernen in 14 Tagen. Einfach und ohne Vorkenntnisse</dc:title>
+        <dc:creator opf:file-as="Hasper, Philipp" opf:role="aut">Philipp Hasper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-31T16:44:37.660960+00:00</dc:date>
+        <dc:description>&lt;p&gt;• C++ programmieren lernen ohne Vorkenntnisse • Alle Grundlagen für den professionellen Einsatz• Einfache Praxisbeispiele und ÜbungsaufgabenMit diesem Buch gelingt Ihnen der einfache Einstieg in die C++-Programmierung.&lt;/p&gt;
+
+&lt;p&gt;Alle Grundlagen werden in 14 Kapiteln anschaulich und leicht nachvollziehbar anhand von Codebeispielen erläutert. Übungsaufgaben am Ende der Kapitel helfen Ihnen, das neu gewonnene Wissen schnell praktisch anzuwenden und zu vertiefen.&lt;/p&gt;
+
+&lt;p&gt;Der Autor führt Sie Schritt für Schritt in die Welt der Programmierung ein: von den Grundlagen über Objektorientierung bis zur Entwicklung von Anwendungen mit grafischer Benutzungsoberfläche. Dabei lernen Sie ebenfalls, was guten Programmierstil ausmacht und wie man Fehler in Programmtexten finden und von vornherein vermeiden kann.&lt;/p&gt;
+
+&lt;p&gt;So sind Sie perfekt auf den Einsatz von C++ im professionellen Umfeld vorbereitet.• Alle Grundlagen einfach erläutert• Objektorientierte Programmierung• Einsatz von Open-Source-Bibliotheken• Grafische Benutzungsoberflächen (GUI)• Internetanfragen und JSON-Parsing• Zeiger und virtuelle Methoden• Fehlersuche und Debugging• Moderner Programmierstil• Programmcode, Lösungen und Glossar zum Download&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">JSc6EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783747503249</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>C</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philipp Hasper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T16:42:45.267441+00:00"/>
+        <meta name="calibre:title_sort" content="C++ Schnelleinstieg: Programmieren lernen in 14 Tagen. Einfach und ohne Vorkenntnisse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

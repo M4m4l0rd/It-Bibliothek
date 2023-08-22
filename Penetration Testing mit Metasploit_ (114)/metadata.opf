@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8954d1bb-10d1-48af-932d-eb22fb42eae9</dc:identifier>
+        <dc:title>Penetration Testing mit Metasploit: Praxiswissen für mehr IT-Sicherheit</dc:title>
+        <dc:creator opf:file-as="Brabetz, Sebastian" opf:role="aut">Sebastian Brabetz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-30T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;- Penetrationstests mit Metasploit als effektiver Teil der IT-Sicherheitsstrategie- Der komplette Workflow: Portscanning mit Nmap, Hacking mit Metasploit, Schwachstellen scannen mit Nessus- Die Techniken der Angreifer verstehen und geeignete Gegenmaßnahmen ergreifenMetasploit ist ein mächtiges Werkzeug, mit dem auch unerfahrene Administratoren gängige Angriffsmethoden verstehen und nachstellen können, um Sicherheitslücken im System aufzuspüren. Der Autor erläutert in diesem Buch gezielt alle Funktionen von Metasploit, die relevant für Verteidiger (sogenannte Blue Teams) sind, und zeigt, wie sie im Alltag der IT-Security wirkungsvoll eingesetzt werden können.&lt;/p&gt;
+
+&lt;p&gt;Als Grundlage erhalten Sie das Basiswissen zu Exploits und Penetration Testing und setzen eine Kali-Linux-Umgebung auf. Mit dem kostenlos verfügbaren Portscanner Nmap scannen Sie Systeme auf angreifbare Dienste ab. Schritt für Schritt lernen Sie die Durchführung eines typischen Hacks mit Metasploit kennen und erfahren, wie Sie mit einfachen Techniken in kürzester Zeit höchste Berechtigungsstufen in den Zielumgebungen erlangen.&lt;/p&gt;
+
+&lt;p&gt;Schließlich zeigt der Autor, wie Sie Metasploit von der Meldung einer Sicherheitsbedrohung über das Patchen bis hin zur Validierung in der Verteidigung von IT-Systemen und Netzwerken einsetzen. Dabei gibt er konkrete Tipps zur Erhöhung Ihres IT-Sicherheitslevels. Zusätzlich lernen Sie, Schwachstellen mit dem Schwachstellenscanner Nessus zu finden, auszuwerten und auszugeben.&lt;/p&gt;
+
+&lt;p&gt;So wird Metasploit ein effizienter Bestandteil Ihrer IT-Sicherheitsstrategie. Sie können Schwachstellen in Ihrem System finden und Angriffstechniken unter sicheren Rahmenbedingungen selbst anwenden sowie fundierte Entscheidungen für Gegenmaßnahmen treffen und prüfen, ob diese erfolgreich sind.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958455955</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9Zp9EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3958455956</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Network Security</dc:subject>
+        <dc:subject>Viruses &amp; Malware</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Brabetz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:27.419407+00:00"/>
+        <meta name="calibre:title_sort" content="Penetration Testing mit Metasploit: Praxiswissen für mehr IT-Sicherheit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

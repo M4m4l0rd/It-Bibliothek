@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13b53612-b204-4a20-bc12-dadb9fc77d85</dc:identifier>
+        <dc:title>Code That Fits in Your Head</dc:title>
+        <dc:creator opf:file-as="Seemann, Mark" opf:role="aut">Mark Seemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-04T23:31:55+00:00</dc:date>
+        <dc:description>&lt;p&gt;- Techniken für sauberen und wartbaren Code sowie für die Reduktion von Komplexität- Software nachhaltig entwickeln und Legacy Code beherrschen- Produktivität steigern durch strukturierte Arbeitsabläufe und effiziente FehlerbehandlungDieses Buch ist ein praktischer Leitfaden für das Schreiben von nachhaltigem Programmcode und die Reduktion von Komplexität, die Schuld daran ist, dass Softwareprojekte langfristig außer Kontrolle geraten.&lt;/p&gt;
+
+&lt;p&gt;Mark Seemann unterstützt seit Jahrzehnten Softwareentwickler-Teams bei der erfolgreichen Umsetzung komplexer Projekte. In diesem Buch begleitet er Sie von den ersten Codezeilen bis zum Deployment und zeigt Ihnen, wie Sie im Entwicklungsprozess effizient bleiben, wenn Sie neue Funktionalitäten implementieren, Optimierungen vornehmen und Fehler beheben. Dabei gibt er Ihnen für alle wichtigen Kernprobleme wertvolle Hinweise, Techniken und Arbeitsabläufe an die Hand: von der Verwendung von Checklisten bis zur Teamarbeit, von Kapselung und API-Design bis zu Unit Testing.&lt;/p&gt;
+
+&lt;p&gt;Seemann veranschaulicht seine Konzepte anhand von Codebeispielen aus einem vollständigen Beispielprojekt in C#. Der Code ist so geschrieben, dass er gut verständlich für jeden ist, der eine objektorientierte Programmiersprache verwendet, einschließlich Java, C++ und Python. Der gesamte Code steht zur weiteren Erkundung zum Download zur Verfügung.&lt;/p&gt;
+
+&lt;p&gt;Wenn Sie jemals negative Erfahrungen bei der Umsetzung von Softwareprojekten oder mit schlecht wartbarem Legacy Code gemacht haben, wird dieses Praxisbuch Ihnen helfen, solche Schwierigkeiten ab sofort von Anfang an zu vermeiden.»Mark Seemann ist dafür bekannt, komplexe Konzepte anschaulich und präzise zu erläutern. In diesem Buch kondensiert er seine weitreichende Erfahrung in der Softwareentwicklung zu praktischen, pragmatischen Techniken für nachhaltigen und gut lesbaren Code. Dieses Buch ist ein Must Read für jeden Programmierer.«&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783747505168</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">b7Z4EAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>C#</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-20T23:29:45+00:00"/>
+        <meta name="calibre:title_sort" content="Code That Fits in Your Head"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

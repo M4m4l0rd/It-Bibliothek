@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc9d8d3a-c973-45f8-980d-074aa9558826</dc:identifier>
+        <dc:title>Windows 10: Das große Handbuch</dc:title>
+        <dc:creator opf:file-as="Heiting, Mareile &amp; Hattenhauer, Rainer" opf:role="aut">Mareile Heiting</dc:creator>
+        <dc:creator opf:file-as="Heiting, Mareile &amp; Hattenhauer, Rainer" opf:role="aut">Rainer Hattenhauer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T14:21:33+00:00</dc:date>
+        <dc:description>Das große Standardwerk zu Windows 10 – aktuell zu allen Updates! In diesem umfassenden Handbuch erfahren Einsteiger und schon versiertere Nutzer alles, um das neue Betriebssystem sicher und effektiv zu handhaben. Das kompetente Autorenduo Mareile Heiting und Rainer Hattenhauer hat das geballte Windows-Wissen für die reibungslose Anwendung in der Praxis aufbereitet und hält dabei eine Fülle an Insidertipps für Sie parat. So beherrschen Sie alles schnell und mühelos – von der Dateiverwaltung über die Systemwartung bis zum Einrichten von Netzwerken.</dc:description>
+        <dc:publisher>Vierfarben, c/o Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783842104594</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">daDHzQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Der Bestseller in aktueller Auflage – inklusive aller Updates!</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-15T08:47:10+00:00"/>
+        <meta name="calibre:title_sort" content="Windows 10: Das große Handbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

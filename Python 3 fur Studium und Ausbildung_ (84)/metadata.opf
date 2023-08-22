@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dea85dd-a060-4015-9ec2-b102567e16d0</dc:identifier>
+        <dc:title>Python 3 für Studium und Ausbildung: Einfach lernen und professionell anwenden</dc:title>
+        <dc:creator opf:file-as="Weigend, Michael" opf:role="aut">Michael Weigend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-08T05:46:28+00:00</dc:date>
+        <dc:description>&lt;p&gt;Einfach lernen und professionell anwenden- Alle wichtigen Grundlagen der Python-Programmierung- Für alle Studiengänge geeignet, keine Vorkenntnisse notwendig- Mit Übungsaufgaben und leicht verständlichen Beispielen aus zahlreichen AnwendungsgebietenProgrammierkenntnisse sind heute eine Kompetenz, die nicht nur in IT-nahen Berufen vorausgesetzt wird. Dieses Buch richtet sich besonders an alle, die Python in Studium und Ausbildung lernen und keine Vorkenntnisse in der Programmierung haben.&lt;/p&gt;
+
+&lt;p&gt;Die Ausrichtung des Studiengangs spielt dabei keine Rolle. Alle Themen werden fachunabhängig erläutert und die Übungen und praktischen Beispiele decken viele unterschiedliche Anwendungsbereiche ab, so dass Sie auf die verschiedensten Aufgaben optimal vorbereitet sind.&lt;/p&gt;
+
+&lt;p&gt;Sie werden Schritt für Schritt in die Programmiertechniken eingeführt: von den Grundlagen (Datentypen, Kontrollstrukturen, Funktionen) über die Entwicklung komplexer Anwendungen mit grafischer Benutzungsoberfläche bis hin zur Anbindung an SQL-Datenbanken, Datenvisualisierung und wissenschaftlichem Rechnen mit Arrays (NumPy). Dabei lernen Sie auch, gut lesbare Programmtexte und sauberen Code zu schreiben, und erfahren, wie Sie Fehler finden und von Anfang an vermeiden können.&lt;/p&gt;
+
+&lt;p&gt;Zahlreiche praktische Programmierübungen helfen Ihnen, Ihr Wissen zu festigen und sich auf Prüfungssituationen vorzubereiten. Die Lösungen zu allen Übungen inklusive Programmcode finden Sie auf der Verlagsseite zum kostenlosen Download.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">OCljEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783747504369</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-28T05:46:05+00:00"/>
+        <meta name="calibre:title_sort" content="Python 3 für Studium und Ausbildung: Einfach lernen und professionell anwenden"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

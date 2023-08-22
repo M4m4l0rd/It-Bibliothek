@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dafd97fc-87b0-4c31-a8d7-ba48ec551a13</dc:identifier>
+        <dc:title>Logik für Dummies</dc:title>
+        <dc:creator opf:file-as="Weber, Daniela" opf:role="aut">Mark Zegarelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-25T06:55:17+00:00</dc:date>
+        <dc:description>&lt;p&gt;Logik ist die Basis der Wissenschaft, aber auch eine Brücke zwischen Wissenschaft und Alltag, denn die Grundlagen sind einfach logisch. Doch so einfach sie auf den ersten Blick scheint, so anspruchsvoll ist sie im Detail. "Logik kompakt für Dummies" führt Sie systematisch und so einfach wie möglich in dieses Teilgebiet von Mathematik und Philosophie ein. Dabei arbeitet Mark Zegarelli mit anschaulichen Beispielen und schafft es so, dieses abstrakte Thema nicht nur verständlich zu erklären, sondern auch Wert und Nutzen der Logik aufzuzeigen.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783527711031</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lqwtCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01A9U1CDO</dc:identifier>
+        <dc:language>deu</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Zegarelli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-10T16:18:07+00:00"/>
+        <meta name="calibre:title_sort" content="Logik für Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>
