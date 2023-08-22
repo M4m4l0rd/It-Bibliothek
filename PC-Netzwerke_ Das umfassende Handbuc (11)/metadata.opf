@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f4d5cb1-815c-49e5-a8c3-5ba38ce9bd56</dc:identifier>
+        <dc:title>PC-Netzwerke: Das umfassende Handbuch</dc:title>
+        <dc:creator opf:file-as="Schemberg, Axel &amp; Linten, Martin &amp; Surendorf, Kai" opf:role="aut">Axel Schemberg</dc:creator>
+        <dc:creator opf:file-as="Schemberg, Axel &amp; Linten, Martin &amp; Surendorf, Kai" opf:role="aut">Martin Linten</dc:creator>
+        <dc:creator opf:file-as="Schemberg, Axel &amp; Linten, Martin &amp; Surendorf, Kai" opf:role="aut">Kai Surendorf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-15T06:54:16+00:00</dc:date>
+        <dc:description>Bewährt, praxisnah und randvoll mit wertvollen Informationen, das ist unser PC-Netzwerke-Buch. Dabei erhalten Sie nicht nur umfassende Grundlagen der Vernetzung, sondern Praxis-Anleitungen, mit denen Sie Ihre Computer zu Hause oder im Büro professionell vernetzen. Ob LAN, WLAN, VoIP oder Routing – kein Thema bleibt dabei unberücksichtigt. Aktuell auch zu allen wichtigen aktuellen Themen wie Virtualisierung, Cloud Computing, IPv6 sowie Windows 10 und OS X.Ihr Wissen können Sie mit dem auf der Buch-DVD befindlichen Netzwerkserver „siegfried“ direkt ausprobieren. Installieren Sie einfach Ihren eigenen Linux-Server! Nutzen Sie ihn für Netzlaufwerke, E-Mail, Netzwerkdrucker, Internettelefonie, DHCP und vieles mehr. Auch wenn Sie einen Mac mit PCs vernetzen wollen, wird Ihnen dieses Buch verlässlich Auskunft geben.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836264440</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NwPPzQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Randvoll mit Grundlagen-Wissen und Praxisprojekten</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-10T07:47:42+00:00"/>
+        <meta name="calibre:title_sort" content="PC-Netzwerke: Das umfassende Handbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

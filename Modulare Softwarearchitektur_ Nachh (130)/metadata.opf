@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c570dea-50ca-4f2e-928a-cd95046438f4</dc:identifier>
+        <dc:title>Modulare Softwarearchitektur: Nachhaltiger Entwurf durch Microservices, Modulithen und SOA 2.0</dc:title>
+        <dc:creator opf:file-as="Dowalil Herbert" opf:role="aut">Herbert Dowalil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-06T20:53:20.196614+00:00</dc:date>
+        <dc:description>&lt;p&gt;MODULARE SOFTWAREARCHITEKTUR //&lt;br /&gt;
+- Lesen Sie Grundlegendes über die neue Schule der Softwarearchitektur&lt;br /&gt;
+- Nutzen Sie die konkreten Empfehlungen zum Bau langlebiger, weil modularer Enterprise- bzw. Makro-Architektur&lt;br /&gt;
+- Erfahren Sie, wie Sie Schritt für Schritt Ihr System zu einer modularen Architektur hin umbauen können&lt;br /&gt;
+- Lernen Sie die Prinzipien nachhaltiger und modularer Architektur anhand eines 16-teiligen Code-Tutorials kennen&lt;br /&gt;
+- Das 5C-Modell stellt eine Alternative zum Microservice-Hype dar und ist auch bei komplexen Architekturen anwendbar  &lt;/p&gt;
+&lt;p&gt;Die Softwarekrise hält die IT-Branche seit den 1960er-Jahren in Atem. Damals wurde heftig darüber debattiert, ob man nicht lieber auf die Verwendung des GOTO-Schlüsselworts und x-beliebiger Sprünge im Code verzichten sollte. Mit der zunehmenden Leistungsfähigkeit der Hardware wurde auch die darauf laufende Software immer komplexer, und man suchte nach Rezepten, um deren Wartbarkeit zu verbessern.  &lt;/p&gt;
+&lt;p&gt;Diese Entwicklung ist bis heute nicht abgeschlossen. Die digitale Transformation der Gesellschaft bringt für bestehende IT-Landschaften neue Herausforderungen mit sich. Enterprise-Architekturen, die sich oft durch ungeplant entstandene Komplexität auszeichnen, sollen plötzlich weiterwachsen. Da die klassischen Muster der Enterprise-Architektur dabei oft versagen, werden zurzeit neue Prinzipien und Muster entwickelt, welche genau diese Komplexität in geordnete Bahnen lenken sollen.  &lt;/p&gt;
+&lt;p&gt;Dieses Buch behandelt diese Themen und stellt den Bezug zu den guten alten Mustern und Prinzipien des Softwaredesigns her.  &lt;/p&gt;
+&lt;p&gt;AUS DEM INHALT //&lt;br /&gt;
+Über Softwarearchitektur/Migration von Legacy-Systemen/Domain Driven Design/Muster modularer Mikro-Architektur/Muster modularer Makro-Architektur bzw. langlebige Enterprise-Architektur/Monolithen, Microservices und Alternativen/Antipattern und Pitfalls modularer Architektur und wie man diese vermeidet/Umsetzung modularer Architektur in komplexen Organisationen&lt;/p&gt;</dc:description>
+        <dc:publisher>Carl Hanser Verlag GmbH  Co KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783446466319</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Jg7uDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08C26RLC4</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Dowalil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-07T20:52:34.434169+00:00"/>
+        <meta name="calibre:title_sort" content="Modulare Softwarearchitektur: Nachhaltiger Entwurf durch Microservices, Modulithen und SOA 2.0"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b6d780b-402a-4f9d-9471-0a56c4af0012</dc:identifier>
+        <dc:title>Shell-Programmierung: Das umfassende Handbuch</dc:title>
+        <dc:creator opf:file-as="Sommer, Frank &amp; Kania, Stefan &amp; Wolf, Jürgen" opf:role="aut">Frank Sommer</dc:creator>
+        <dc:creator opf:file-as="Sommer, Frank &amp; Kania, Stefan &amp; Wolf, Jürgen" opf:role="aut">Stefan Kania</dc:creator>
+        <dc:creator opf:file-as="Sommer, Frank &amp; Kania, Stefan &amp; Wolf, Jürgen" opf:role="aut">Jürgen Wolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T23:31:35+00:00</dc:date>
+        <dc:description>Dieses umfassende Handbuch bietet alles, was Sie zur Shell-Programmierung wissen müssen. Behandelt werden: Variablen, Parameter und Argumente, Kontrollstrukturen, Terminal-Eingabe und -Ausgabe, Funktionen, Signale, Scripts und Prozesse, reguläre Ausdrücke, Fehlersuche und Debugging. Weiter geht's mit den wertvollen Helfern grep, sed und awk. Eine umfangreiche Linux-UNIX-Referenz bietet alle grundlegenden Kommandos in übersichtlicher Form.Das komplette Werk enthält zahlreiche Praxisbeispiele, ist modular zu lesen und hervorragend als Nachschlagewerk geeignet. Die aktuelle Auflage wurde erweitert und beschreibt nun auch die zsh: Damit eignet sich das Buch bestens für die Linux-Praxis!</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">B9B3zwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783836289245</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Shell-Programmierung von A bis Z!</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-20T23:29:54+00:00"/>
+        <meta name="calibre:title_sort" content="Shell-Programmierung: Das umfassende Handbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

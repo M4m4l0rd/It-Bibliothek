@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f247114-8691-45c6-bb97-e261d759396d</dc:identifier>
+        <dc:title>Software Engineering: Grundlagen, Menschen, Prozesse, Techniken</dc:title>
+        <dc:creator opf:file-as="Ludewig, Jochen &amp; Lichter, Horst" opf:role="aut">Jochen Ludewig</dc:creator>
+        <dc:creator opf:file-as="Ludewig, Jochen &amp; Lichter, Horst" opf:role="aut">Horst Lichter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-02T18:20:00.123921+00:00</dc:date>
+        <dc:publisher>dpunkt.verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">U5mEzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783864905988</dc:identifier>
+        <dc:language>deu</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-25T18:18:29.076184+00:00"/>
+        <meta name="calibre:title_sort" content="Software Engineering: Grundlagen, Menschen, Prozesse, Techniken"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

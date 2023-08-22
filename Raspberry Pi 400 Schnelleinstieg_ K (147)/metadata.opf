@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10703f4e-8559-4473-ba76-66f6b507f33c</dc:identifier>
+        <dc:title>Raspberry Pi 400 Schnelleinstieg: Kompakter Leitfaden für Hard- und Software. Für Homeoffice, Homeschooling und Freizeit</dc:title>
+        <dc:creator opf:file-as="Hertramph, Herbert" opf:role="aut">Herbert Hertramph</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-15T14:21:17.406681+00:00</dc:date>
+        <dc:description>&lt;p&gt;- Den Raspberry Pi 400 Schritt für Schritt kennenlernen und einrichten- Alle notwendigen Linux-Grundlagen- Sicherheit, Backups und FernzugriffDer Raspberry Pi 400 ist ein minimalistischer „All-in-one“-PC zu einem unschlagbaren Preis. Die gesamte Technik ist in der Tastatur verbaut und die gesamte Software auf einer SD-Karte gespeichert.&lt;/p&gt;
+
+&lt;p&gt;Mit diesem Buch erhalten Sie eine einfache und kompakte Einführung für den Einsatz des Raspberry Pi 400 und erfahren alles, was Sie brauchen, um mit dem Betriebssystem, der Arbeitsumgebung und der Software zu arbeiten. Herbert Hertramph zeigt Schritt für Schritt, wie Sie den Raspberry Pi 400 einrichten, um ihn im Alltag, Homeoffice oder für das Homeschooling optimal einzusetzen. Außerdem erhalten Sie jede Menge Tipps und Tricks für Streaming, Fotobearbeitung und vieles mehr.&lt;/p&gt;
+
+&lt;p&gt;Alle notwendigen Linux-Grundlagen werden für Ein- und Umsteiger ganz einfach erläutert. Der Autor erklärt die Vorteile des Systems und geht besonders auf Sicherheit und Backups ein.&lt;/p&gt;
+
+&lt;p&gt;Mit diesem Buch werden Sie die Möglichkeiten des Raspberry Pi 400 voll ausschöpfen und den Mini-PC optimal an die eigenen Bedürfnisse anpassen.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_RFfEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783747504062</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>Mainframes &amp; Minicomputers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Hertramph&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-15T14:21:02.775819+00:00"/>
+        <meta name="calibre:title_sort" content="Raspberry Pi 400 Schnelleinstieg: Kompakter Leitfaden für Hard- und Software. Für Homeoffice, Homeschooling und Freizeit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ad62a90-64a7-4ada-a918-7d84591fb635</dc:identifier>
+        <dc:title>Oracle SQL: Das umfassende Handbuch</dc:title>
+        <dc:creator opf:file-as="Jürgen Sieben" opf:role="aut">Jürgen Sieben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T20:53:15.128812+00:00</dc:date>
+        <dc:description>Wenn Sie sich professionell mit Oracle beschäftigen, sind umfassende Kenntnisse des entsprechenden SQL-Dialekts unverzichtbar. Jürgen Sieben, vielen bereits bekannt durch seine Bücher zu Oracle PL/SQL und Oracle APEX, hat nun auch sein Buch zu Oracle SQL aktualisiert. Er zeigt Ihnen darin, wie Oracle und SQL zusammenspielen und welche Strategien Sie nutzen können, um Daten in der Datenbank zu speichern, zu analysieren oder auch zu löschen. Neu in der 3. Auflage: Änderungen in der Datenbankversion 12.2. sowie ein Abschnitt zu analytischen Views.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836262439</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">x4nCzQEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Unverzichtbar für jeden Oracle-Datenbankentwickler</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jürgen Sieben&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-07T20:52:39.927404+00:00"/>
+        <meta name="calibre:title_sort" content="Oracle SQL: Das umfassende Handbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

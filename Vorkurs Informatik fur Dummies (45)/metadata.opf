@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e83f4af4-d9f4-4515-9868-c55ea706db53</dc:identifier>
+        <dc:title>Vorkurs Informatik für Dummies</dc:title>
+        <dc:creator opf:file-as="Lang, Hans Werner" opf:role="aut">Hans Werner Lang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-23T09:23:50+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Möchten Sie Informatik studieren und sich vorbereiten, um peinliche Wissenslücken zu vermeiden? Dann ist dieses Buch genau das richtige für Sie! Es verschafft Ihnen einen verständlichen und strukturierten Einblick in die Grundlagen der Informatik. Von der notwendigen Mathematik über erste Programmierschritte mit Python und Java bis zu Kryptografie, Datenbanken und Theoretischer Informatik ist alles dabei. Der Autor kennt die typischen Probleme und Verständnishürden der Erstsemester und hilft Ihnen, einen guten Start ins Informatikstudium zu finden. Und dazu brauchen Sie außer Schulmathe und Interesse für Informatik keinerlei Vorkenntnisse. Also los geht?s, starten Sie gut vorbereitet ins Studium.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Hans Werner Lang studierte Informatik an der UniversitÃ¤t Kiel und promovierte dort 1990 zu einem Thema aus dem Bereich "Parallele Architekturen und Algorithmen". Von 1994 bis 2017 war er Professor fÃ¼r Informatik an der Hochschule Flensburg und hat in dieser Zeit zahlreiche Vorlesungen zur Informatik gehalten.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08P3ZR7T8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783527827091</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4wwLEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <meta name="calibre:timestamp" content="2023-03-18T08:36:15+00:00"/>
+        <meta name="calibre:title_sort" content="Vorkurs Informatik für Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

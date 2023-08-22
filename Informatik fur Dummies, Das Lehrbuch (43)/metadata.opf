@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58327f9b-2310-4d92-b665-a2b5168ded8f</dc:identifier>
+        <dc:title>Informatik für Dummies, Das Lehrbuch</dc:title>
+        <dc:creator opf:file-as="Haffner, Ernst Georg" opf:role="aut">Ernst Georg Haffner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-18T09:24:00.798813+00:00</dc:date>
+        <dc:description>&lt;p&gt;Studierende von Bachelor-Studiengängen an Hochschulen und Universitäten, bei denen die Informatik auf irgendeine Weise im Curriculum auftaucht, dürfen sich freuen. Dieses Buch verschafft Ihnen - so einfach, schnell und unterhaltsam wie möglich - einen umfassenden Überblick über die praktische, theoretische und technische Informatik. Sie können das Buch ergänzend zur Vorlesung oder zum Selbststudium nutzen. Der Autor kennt die typischen Probleme der Studierenden. Überwinden Sie Ihre Scheu vor Formalismen. Entdecken Sie den Reiz der Computerwissenschaften! Dies ist das perfekte Buch für den Einstieg in die Informatik.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783527810277</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HMm0DgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B071KWYB9G</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernst Georg Haffner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T08:36:07.551406+00:00"/>
+        <meta name="calibre:title_sort" content="Informatik für Dummies, Das Lehrbuch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

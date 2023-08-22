@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac0fd633-1b1d-488d-a7d9-955b5ebd7b3c</dc:identifier>
+        <dc:title>Spurlos im Internet: Tracking verhindern, Daten schützen, anonym surfen, VPN nutzen</dc:title>
+        <dc:creator opf:file-as="Erle, Andreas" opf:role="aut">Andreas Erle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-22T11:52:23.663095+00:00</dc:date>
+        <dc:description>&lt;p&gt;Sie haben nichts zu verbergen? Wer im Internet surft, hinterlässt Spuren. Wenn Sie eine Internetseite aufrufen, wenn Sie online einkaufen, wenn Sie soziale Netzwerke nutzen oder wenn Sie Ihre Lieblingsserie streamen: All das hinterlässt Daten über Sie. Je mehr jemand von Ihnen weiß, desto mehr kann er zielgerichtet für Sie tun – oder gegen Sie. Grund genug also, sich ausführlich mit Ihren Daten da draußen auseinanderzusetzen und ihre Verbreitung einzugrenzen. Dieser Ratgeber der Stiftung Warentest zeigt Ihnen Schritt für Schritt und mithilfe vieler Screenshots, wie Sie sicher surfen und Ihre Privatsphäre schützen. Sie erfahren, wie Sie starke Passwörter generieren, Ihre privaten Daten löschen, wie Sie Webseiten-Tracking verhindern und wo datensparsamere Geräte Sinn machen. Denn Sie haben etwas zu verbergen – und das ist auch gut so.&lt;/p&gt;</dc:description>
+        <dc:publisher>Stiftung Warentest</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">tL79DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783747102268</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Buyer's Guides</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Online Safety &amp; Privacy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andreas Erle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T11:49:11.886568+00:00"/>
+        <meta name="calibre:title_sort" content="Spurlos im Internet: Tracking verhindern, Daten schützen, anonym surfen, VPN nutzen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

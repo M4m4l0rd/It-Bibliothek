@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">511e0e9e-ac83-4817-95c1-d256e9dd3639</dc:identifier>
+        <dc:title>c't Hacking-Praxis 2023: Testumgebung aufsetzen • Recherche- &amp; Analyse-Tools anwenden</dc:title>
+        <dc:creator opf:file-as="c't-Redaktion" opf:role="aut">c't-Redaktion</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-24T06:21:12+00:00</dc:date>
+        <dc:description>&lt;p&gt;In dem neuen Sonderheft c't Hacking-Praxis lernen Sie, wie ein Hacker denkt, wie er vorgeht und welche Tools er benutzt. Wir stellen unterschiedliche Profi-Tools vor sowie eine Browsererweiterung, die OSINT-Werkzeuge bündelt. Zudem schauen wir einem Pentester über die Schulter und zeigen Grundlagen, um Schadsoftware zu analysieren.&lt;/p&gt;
+
+&lt;p&gt;Zusätzlich erhalten Sie einen heise-Academy-Videokurs "Angriffsszenarien im Netzwerk" im Wert von 129 Euro.&lt;/p&gt;</dc:description>
+        <dc:publisher>Heise Medien GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783957883254</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5wmpEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Viruses &amp; Malware</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Online Safety &amp; Privacy</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;c't-Redaktion&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-18T06:21:00+00:00"/>
+        <meta name="calibre:title_sort" content="c't Hacking-Praxis 2023: Testumgebung aufsetzen • Recherche- &amp; Analyse-Tools anwenden"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

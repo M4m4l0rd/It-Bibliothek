@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35e16d80-5d36-47c3-8018-e39cbf92c1f5</dc:identifier>
+        <dc:title>Social Engineering enttarnt: Sicherheitsrisiko Mensch</dc:title>
+        <dc:creator opf:file-as="Hadnagy, Christopher &amp; Ekman, Paul" opf:role="aut">Christopher Hadnagy</dc:creator>
+        <dc:creator opf:file-as="Hadnagy, Christopher &amp; Ekman, Paul" opf:role="aut">Paul Ekman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-25T06:51:41+00:00</dc:date>
+        <dc:description>&lt;p&gt;Verbinden Sie die Wissenschaft der nonverbalen Kommunikation mit der Kunst des Social Engineering.&lt;/p&gt;
+
+&lt;p&gt;Social Engineers sind Experten in der Manipulation ihres Gegenübers und wissen, mit welchen Mitteln sie ihr Ziel erreichen können. Mit diesem Buch werden Sie verstehen lernen, was jemand wirklich denkt – auch wenn er Sie etwas anderes glauben lassen möchte. Gleichzeitig lernen Sie, wie Sie Menschen durch Mimik und Gestik dazu bringen, Ihnen zu vertrauen.&lt;/p&gt;
+
+&lt;p&gt;Christopher Hadnagy, Dr. Paul Ekman und der Fachredakteur Paul Kelly haben sich in diesem Buch zusammengetan, um zu erklären, wie Social Engineering funktioniert und wie Sie sich davor schützen können. Denn Sicherheit bedeutet mehr als die Abwehr von hinterhältigen Angriffen. Vielmehr geht es darum, das Wissen um Social Engineering und Human Hacking so zu nutzen, dass Sie selbst jederzeit Herr der (Kommunikations-)Lage sind.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783826686986</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">EfZUBAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>SOCIAL SCIENCE</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Hadnagy&quot;: &quot;&quot;, &quot;Paul Ekman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-15T06:49:33+00:00"/>
+        <meta name="calibre:title_sort" content="Social Engineering enttarnt: Sicherheitsrisiko Mensch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

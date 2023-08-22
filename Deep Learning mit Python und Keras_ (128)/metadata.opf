@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12fade58-015d-4bfe-ae32-823af65feb05</dc:identifier>
+        <dc:title>Deep Learning mit Python und Keras: Das Praxis-Handbuch vom Entwickler der Keras-Bibliothek</dc:title>
+        <dc:creator opf:file-as="Chollet, François" opf:role="aut">Chollet, François</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-24T20:53:30.796609+00:00</dc:date>
+        <dc:description>&lt;p&gt;• Einführung in die grundlegenden Konzepte von Machine Learning und Deep Learning• Zahlreiche praktische Anwendungsbeispiele zum Lösen konkreter Aufgabenstellungen• Maschinelles Sehen, Sprachverarbeitung, Bildklassifizierung, Vorhersage von Zeitreihen, Stimmungsanalyse, Erzeugung von Bildern und Texten u.v.m.&lt;/p&gt;
+
+&lt;p&gt;Dieses Buch ist eine praxisorientierte Einführung und erläutert die grundlegenden Konzepte sowie den konkreten Einsatz von Deep Learning. Der Autor verzichtet dabei weitgehend auf mathematische Formeln und legt stattdessen den Fokus auf das Vermitteln der praktischen Anwendung von Machine Learning und Deep Learning.&lt;/p&gt;
+
+&lt;p&gt;Anhand zahlreicher Beispiele erfahren Sie alles, was Sie wissen müssen, um Deep Learning zum Lösen konkreter Aufgabenstellungen einzusetzen. Dafür verwendet der Autor die Programmiersprache Python und die Deep-Learning-Bibliothek Keras, die das beliebteste und am besten geeignete Tool für den Einstieg in Deep Learning ist.&lt;/p&gt;
+
+&lt;p&gt;Das Buch besteht aus zwei Teilen: Teil I ist eine allgemeine Einführung in das Deep Learning und erläutert die grundlegenden Zusammenhänge und Begriffe sowie alle erforderlichen Konzepte, die für den Einstieg in Deep Learning und Neuronale Netze wichtig sind. In Teil II erläutert der Autor ausführlich praktische Anwendungsmöglichkeiten des Deep Learnings beim maschinellen Sehen (Computer Vision) und bei der Verarbeitung natürlicher Sprache. Viele der hier vorgestellten Beispiele können Ihnen später als Vorlage zum Lösen von Problemen dienen, die Ihnen in der Praxis des Deep Learnings begegnen werden.&lt;/p&gt;
+
+&lt;p&gt;Das Buch wendet sich an Leser, die bereits Programmiererfahrung mit Python haben und ins Machine Learning und Deep Learning einsteigen möchten. Für den Einsatz von Keras werden grundlegende Python-Kenntnisse vorausgesetzt.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783958458406</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ouVcDwAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Computer Vision &amp; Pattern Recognition</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chollet, François&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-07T20:52:24.087575+00:00"/>
+        <meta name="calibre:title_sort" content="Deep Learning mit Python und Keras: Das Praxis-Handbuch vom Entwickler der Keras-Bibliothek"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

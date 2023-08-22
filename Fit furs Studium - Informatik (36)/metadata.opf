@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a51973e-8d9a-475c-a840-66b7d09e911b</dc:identifier>
+        <dc:title>Fit fürs Studium - Informatik</dc:title>
+        <dc:creator opf:file-as="Boockmeyer, Arne &amp; Fischbeck, Philipp &amp; Neubert, Stefan" opf:role="aut">Arne Boockmeyer</dc:creator>
+        <dc:creator opf:file-as="Boockmeyer, Arne &amp; Fischbeck, Philipp &amp; Neubert, Stefan" opf:role="aut">Philipp Fischbeck</dc:creator>
+        <dc:creator opf:file-as="Boockmeyer, Arne &amp; Fischbeck, Philipp &amp; Neubert, Stefan" opf:role="aut">Stefan Neubert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-15T09:25:02+00:00</dc:date>
+        <dc:description>So gelingt der Einstieg ins Informatikstudium! Schließen Sie Wissenslücken, die Ihnen im Studium das Leben schwer machen könnten. Dieser Vorkurs präsentiert Ihnen alles Wesentliche Schritt für Schritt, anschaulich und zum Mitmachen. Jedes Kapitel beginnt mit einer Knobelei, die Sie ohne Vorkenntnisse lösen können und die zu einem der Grundkonzepte der Informatik führt. Der Computer kann dabei meist ausgeschaltet bleiben –  um einen Algorithmus zu entwerfen, in formale Sprachen einzusteigen oder die Grundlagen der Verschlüsselung zu verstehen, reichen Papier, Bleistift und dieses Buch.Die Autoren kennen typische Verständnishürden und gehen auch die schwierigen Themen mit Schwung und didaktischem Feingefühl an. Diagramme, Beispiele und Aufgaben mit Lösungen helfen, alles zu verstehen. Mit Grundkenntnissen zu Rechnerarchitekturen, Algorithmen und ihrer Komplexität, formalen Sprachen, objektorientierter Programmierung  u. v. m. gehen Sie gut vorbereitet an die Hochschule.</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836244077</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6WK7tAEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Grundkonzepte der Informatik verstehen und Wissenslücken schließen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arne Boockmeyer&quot;: &quot;&quot;, &quot;Philipp Fischbeck&quot;: &quot;&quot;, &quot;Stefan Neubert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T08:35:32+00:00"/>
+        <meta name="calibre:title_sort" content="Fit fürs Studium - Informatik"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

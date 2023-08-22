@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">465b1a5a-a426-410f-a72a-d1f38c47e7b2</dc:identifier>
+        <dc:title>TCP/IP - Grundlagen und Praxis: Protokolle, Routing, Dienste, Sicherheit</dc:title>
+        <dc:creator opf:file-as="Lienemann, Gerhard &amp; Larisch, Dirk" opf:role="aut">Gerhard Lienemann</dc:creator>
+        <dc:creator opf:file-as="Lienemann, Gerhard &amp; Larisch, Dirk" opf:role="aut">Dirk Larisch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-06T06:56:30+00:00</dc:date>
+        <dc:description>&lt;p&gt;TCP/IP gilt als Standard für die Kommunikation in Netzwerken - sowohl im lokalen Bereich als auch im weltumspannenden Internet. Wie jede Protokollfamilie so setzt sich auch TCP/IP aus verschiedenen Komponenten zusammen. Sie werden im Rahmen dieses Buches mit folgenden Schwerpunktthemen umfassend erläutert: • Entwicklung und Funktion von Netzwerken • Bridging, Switching und Routing • Protokolle der TCP/IP-Familie • Adressierung im Netzwerk (statisch, dynamisch per DHCP) • Namensauflösung im IP-Netzwerk (Domain Name Service) • Routing-Protokolle im IP-Netzwerk und deren Funktion • Spezielle Dienste auf Basis von TCP/IP • TCP/IP in kabellosen Netzwerken (WLAN, Bluetooth, DSL-Vectoring usw.) • Implementierung von TCP/IP in Betriebssystemen • Sicherheit im IP-Netzwerk (IPsec, VPN, SSL) • Weiterentwicklungen auf Basis von IPv6 • Internet der Dinge Neben den Grundlagen werden auch praktische Aspekte beleuchtet, die für die tägliche Arbeit von Relevanz sein können, beispielsweise wie auf Basis eines Windows-Servers ein System aufgebaut werden kann, mit dem in einem Netzwerk die Namensauflösung (DNS) realisiert wird. Installationen oder Implementierungen, die für Dienste wie E-Mail, WWW oder FTP (File Transfer Protocol) erforderlich sind, werden ebenfalls praxisorientiert dargestellt. Ein eigenes Kapitel widmet sich dem "Troubleshooting": Aufgezeigt werden "aus der Praxis für die Praxis" Lösungsansätze für häufig auftretende Problemfälle.&lt;/p&gt;</dc:description>
+        <dc:publisher>dpunkt.verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Jp94DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783944099125</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:18+00:00"/>
+        <meta name="calibre:title_sort" content="TCP/IP - Grundlagen und Praxis: Protokolle, Routing, Dienste, Sicherheit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

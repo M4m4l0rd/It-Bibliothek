@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f89b7dd-6086-46e7-81a1-d8a988203a07</dc:identifier>
+        <dc:title>Der Pragmatische Programmierer: Ihr Weg zur Meisterschaft</dc:title>
+        <dc:creator opf:file-as="Thomas, David &amp; Hunt, Andrew" opf:role="aut">David Thomas</dc:creator>
+        <dc:creator opf:file-as="Thomas, David &amp; Hunt, Andrew" opf:role="aut">Andrew Hunt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T23:31:47.356152+00:00</dc:date>
+        <dc:description>&lt;p&gt;FÜR EINSTEIGER, FORTGESCHRITTENE PROGRAMMIERER UND ALTE HASEN //Erfahren Sie im Buch, wie Sie ...... den Verfall von Software bekämpfen... Redundanz vermeiden... flexiblen, dynamischen und anpassungsfähigen Quelltext schreiben... Ihr Handwerkszeug optimal nutzen... vermeiden, mit dem Zufall zu programmieren... die richtigen Anforderungen finden... sich vor Sicherheitslücken schützen... Probleme beim nebenläufigen Code lösen... Teams aus Pragmatischen Programmierern bilden... effektiv testen... das Pragmatic Starter Kit implementieren... Ihre Anwender begeisternIhr exklusiver Vorteil: E-Book inside beim Kauf des gedruckten BuchesDer Pragmatische Programmierer ist eines dieser seltenen Fachbücher, die Sie im Lauf der Jahre immer wieder lesen werden. Egal, ob Sie Programmiereinsteiger oder erfahrener Praktiker sind, stets können Sie neue Einsichten gewinnen.&lt;/p&gt;
+
+&lt;p&gt;David Thomas und Andrew Hunt schrieben 1999 die erste Ausgabe dieses einflussreichen Buches, um ihren Kunden zu helfen, bessere Software zu entwickeln und die Freude am Programmieren wiederzuentdecken. Ihre pragmatischen Profitipps helfen bis heute einer ganzen Generation von Programmierern, den Kosmos der Software-Entwicklung zu erkunden, unabhängig von einer bestimmten Sprache oder Methodik oder einem bestimmten Framework.&lt;/p&gt;
+
+&lt;p&gt;Ihre »Pragmatische Philosophie« hat den Weg bereitet für Hunderte von Büchern, Screencasts und Hörbüchern sowie Tausende von Karrieren und Erfolgsgeschichten.&lt;/p&gt;
+
+&lt;p&gt;Zwanzig Jahre später untersuchen die Autoren nun erneut, was einen modernen Programmierer ausmacht. Die Themen reichen von persönlicher Verantwortung über berufliche Entwicklung bis hin zu Architekturtechniken, die Ihren Code flexibel, leicht anpassbar und wiederverwendbar halten.&lt;/p&gt;
+
+&lt;p&gt;In kurzen Abschnitten, die auch einzeln gelesen werden können, erläutern die Autoren nicht nur die Best Practices, sondern auch Fallstricke bei der Software-Entwicklung. Anschauliche Beispiele und interessante Analogien machen dieses Buch zu einem Lesevergnügen.&lt;/p&gt;
+
+&lt;p&gt;Egal ob Einsteiger, erfahrener Programmierer oder Manager für Softwareprojekte: Wer die Profitipps der Autoren bei der täglichen Arbeit anwendet, wird seine Produktivität, Genauigkeit und Zufriedenheit rasch steigern und damit als Pragmatischer Programmierer auch langfristig erfolgreich sein.&lt;/p&gt;</dc:description>
+        <dc:publisher>Carl Hanser Verlag GmbH  Co KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783446466333</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7rwlEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Thomas&quot;: &quot;&quot;, &quot;Andrew Hunt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T23:29:47.963372+00:00"/>
+        <meta name="calibre:title_sort" content="Pragmatische Programmierer: Ihr Weg zur Meisterschaft, Der"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

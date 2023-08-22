@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6184b70-e8ad-4128-a95d-5f8537d1e6cb</dc:identifier>
+        <dc:title>Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python</dc:title>
+        <dc:creator opf:file-as="Trask, Andrew W." opf:role="aut">Andrew W. Trask</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-21T16:44:59.810767+00:00</dc:date>
+        <dc:description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Von den Grundlagen Neuronaler Netze über Machine Learning bis hin zu Deep-Learning-Algorithmen&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anschauliche Diagramme, Anwendungsbeispiele in Python und der Einsatz von NumPy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keine Vorkenntnisse in Machine Learning oder höherer Mathematik erforderlich&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Deep Learning muss nicht kompliziert sein. Mit diesem Buch lernst du anhand vieler Beispiele alle Grundlagen, die du brauchst, um Deep-Learning-Algorithmen zu verstehen und anzuwenden. Dafür brauchst du nichts weiter als Schulmathematik und Kenntnisse der Programmiersprache Python. Alle Codebeispiele werden ausführlich erläutert und mathematische Hintergründe anhand von Analogien veranschaulicht.&lt;/p&gt;
+&lt;p&gt;Der Autor erklärt leicht verständlich, wie Neuronale Netze lernen und wie sie mit Machine-Learning-Verfahren trainiert werden können. Du erfährst, wie du dein erstes Neuronales Netz erstellst und wie es mit Deep-Learning-Algorithmen Bilder erkennen sowie natürliche Sprache verarbeiten und modellieren kann. Hierbei kommen Netze mit mehreren Schichten wie CNNs und RNNs zum Einsatz.&lt;/p&gt;
+&lt;p&gt;Fokus des Buches ist es, Neuronale Netze zu trainieren, ohne auf vorgefertigte Python-Frameworks zurückzugreifen. So verstehst du Deep Learning von Grund auf und kannst in Zukunft auch komplexe Frameworks erfolgreich für deine Projekte einsetzen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aus dem Inhalt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parametrische und nichtparametrische Modelle&lt;/li&gt;
+&lt;li&gt;Überwachtes und unüberwachtes Lernen&lt;/li&gt;
+&lt;li&gt;Vorhersagen mit mehreren Ein- und Ausgaben&lt;/li&gt;
+&lt;li&gt;Fehler messen und verringern&lt;/li&gt;
+&lt;li&gt;Hot und Cold Learning&lt;/li&gt;
+&lt;li&gt;Batch- und stochastischer Gradientenabstieg&lt;/li&gt;
+&lt;li&gt;Überanpassung vermeiden&lt;/li&gt;
+&lt;li&gt;Generalisierung&lt;/li&gt;
+&lt;li&gt;Dropout-Verfahren&lt;/li&gt;
+&lt;li&gt;Backpropagation und Forward Propagation&lt;/li&gt;
+&lt;li&gt;Bilderkennung&lt;/li&gt;
+&lt;li&gt;Verarbeitung natürlicher Sprache (NLP)&lt;/li&gt;
+&lt;li&gt;Sprachmodellierung&lt;/li&gt;
+&lt;li&gt;Aktivierungsfunktionen &lt;ul&gt;
+&lt;li&gt;Sigmoid-Funktion&lt;/li&gt;
+&lt;li&gt;Tangens hyperbolicus&lt;/li&gt;
+&lt;li&gt;Softmax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Networks (CNNs)&lt;/li&gt;
+&lt;li&gt;Recurrent Neural Networks (RNNs)&lt;/li&gt;
+&lt;li&gt;Long Short-Term Memory (LSTM)&lt;/li&gt;
+&lt;li&gt;Deep-Learning-Framework erstellen&lt;/li&gt;
+&lt;/ul&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783747500170</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0SC_DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B081SYW2SP</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Computer Vision &amp; Pattern Recognition</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew W. Trask&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T16:42:34.060114+00:00"/>
+        <meta name="calibre:title_sort" content="Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

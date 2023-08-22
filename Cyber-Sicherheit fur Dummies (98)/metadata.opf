@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1acf449-945e-4d5b-b827-3f7d171f5f96</dc:identifier>
+        <dc:title>Cyber-Sicherheit für Dummies</dc:title>
+        <dc:creator opf:file-as="STEINBERG, JOSEPH" opf:role="aut">JOSEPH STEINBERG</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Steht auf Ihrer To-Do-Liste auch, dass Sie unbedingt Ihre privaten Daten besser schÃ¼tzen mÃ¼ssen? Dieses Buch fÃ¼hrt Sie in die Grundlagen der Cyber-Sicherheit ein. Sie erfahren zuerst einmal, welche Bedrohungen es Ã¼berhaupt gibt, wie Sie sie erkennen, wie Sie sich vor Ihnen schÃ¼tzen und was Sie unbedingt tun sollten. Und falls Sie dann doch von einem Angriff betroffen sind, wie Sie Ihre Daten wiederherstellen. Dieses Buch hilft Ihnen auch, von vornherein Schwachstellen in Ihren Systemen und GerÃ¤ten zu erkennen, sodass Cyber-Kriminelle erst gar keine Chance haben.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Joseph Steinberg ist Berater fÃ¼r Cyber-Sicherheit und neue Technologien. Er leitet seit Ã¼ber zwei Jahrzehnten Unternehmen in der Informationssicherheitsbranche, schreibt den offiziellen Leitfaden, aus dem viele Chief Information Security Officers (CISOs) fÃ¼r ihre ZertifizierungsprÃ¼fungen lernen, und wird als einer der Top-3-Cyber-Sicherheits-Influencer weltweit betrachtet. Seine Erfindungen im Zusammenhang mit der Cyber-Sicherheit haben zu Ã¼ber 150 US-Patentanmeldungen gefÃ¼hrt.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783527716654</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Pd7SDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0856RW88N</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Cryptography &amp; Encryption</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;JOSEPH STEINBERG&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-01T11:49:11.634918+00:00"/>
+        <meta name="calibre:title_sort" content="Cyber-Sicherheit für Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

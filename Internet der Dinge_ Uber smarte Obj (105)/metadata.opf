@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aeb3a11-56dc-4155-96f7-d2845e5f60be</dc:identifier>
+        <dc:title>Internet der Dinge: Über smarte Objekte, intelligente Umgebungen und die technische Durchdringung der Welt</dc:title>
+        <dc:creator opf:file-as="Sprenger, Florian &amp; Engemann, Christoph" opf:role="aut">Florian Sprenger</dc:creator>
+        <dc:creator opf:file-as="Sprenger, Florian &amp; Engemann, Christoph" opf:role="aut">Christoph Engemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-31T11:51:46.427037+00:00</dc:date>
+        <dc:description>&lt;p&gt;Das Internet der Dinge wird als neue Stufe der Digitalisierung und Zukunft unseres computergestützten Weltzugangs angepriesen: Unsichtbar, smart, miniaturisiert und allgegenwärtig sollen Gadgets und Devices unseren Alltag durchdringen. Die Vernetzung der Dinge durch Chips, Tags und Sensoren transformiert unser Verhältnis zur Technik und verschafft den Dingen einen neuen Ort in der Welt. Dieser Band versammelt Erstübersetzungen paradigmatischer englischer Texte sowie aktuelle Analysen deutschsprachiger Autoren und liefert einen Überblick über den gegenwärtigen Stand der Diskussion zur Geschichte, zur Epistemologie, zu Techniken und zu Anwendungen des Internets der Dinge. Mit Beiträgen u.a. von Natascha Adamowsky, John Seely Brown, Mercedes Bunz, Ian Bogost, Ina Bolinski, Keller Easterling, Christoph Engemann, Jennifer Gabrys, Sebastian Gießmann, Kai Hofmann, Gerrit Hornung, Sabina Jeschke, Timo Kaerlein, Linus Neumann, Jussi Parikka, Stefan Rieger, Jens Schröter, Michael Seemann, Florian Sprenger und Mark Weiser.&lt;/p&gt;</dc:description>
+        <dc:publisher>transcript Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783732830466</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oMCyCwAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Medien</dc:subject>
+        <dc:subject>Vernetzung</dc:subject>
+        <dc:subject>Networks</dc:subject>
+        <dc:subject>Media Studies</dc:subject>
+        <dc:subject>21st Century</dc:subject>
+        <dc:subject>Medienwissenschaft</dc:subject>
+        <dc:subject>Internet der Dinge</dc:subject>
+        <dc:subject>Media</dc:subject>
+        <dc:subject>SOCIAL SCIENCE</dc:subject>
+        <dc:subject>Digitalization</dc:subject>
+        <dc:subject>Sociology of Technology</dc:subject>
+        <dc:subject>Digitalisierung</dc:subject>
+        <dc:subject>Digitale Medien</dc:subject>
+        <dc:subject>Medientheorie</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Media Theory</dc:subject>
+        <dc:subject>Internet of Things</dc:subject>
+        <dc:subject>Techniksoziologie</dc:subject>
+        <dc:subject>Technik</dc:subject>
+        <dc:subject>Ubiquitous Computing</dc:subject>
+        <dc:subject>Digital Media</dc:subject>
+        <dc:subject>21. Jahrhundert</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Florian Sprenger&quot;: &quot;&quot;, &quot;Christoph Engemann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-01T11:49:18.392098+00:00"/>
+        <meta name="calibre:title_sort" content="Internet der Dinge: Über smarte Objekte, intelligente Umgebungen und die technische Durchdringung der Welt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

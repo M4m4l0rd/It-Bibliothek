@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22bb56fa-b5fc-4dd1-9497-3f283545272c</dc:identifier>
+        <dc:title>Wissenschaftliche Arbeiten schreiben mit Microsoft Office Word 365, 2019, 2016, 2013, 2010</dc:title>
+        <dc:creator opf:file-as="Tuhls, G. O." opf:role="aut">G. O. Tuhls</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-15T22:46:31+00:00</dc:date>
+        <dc:description>&lt;p&gt;Schnell zur formvollendeten Arbeit - ohne Vorkenntnisse Lösungsorientierte und verständliche Beschreibungen - mit Schnellanleitungen bei Zeitdruck Von Tabellen und Grafiken über Formeln bis zum Literaturverzeichnis Wissenschaftliche Arbeiten - angefangen mit Seminararbeiten über Abschlussarbeiten bis hin zu späteren Veröffentlichungen wie Dissertationen und Seminarunterlagen - erfordern ein professionelles Layout. Dieses Buch wurde speziell für diese Aufgabe konzipiert. Sie lernen kompakt und schnell alles, was Sie wissen müssen, um formvollendete wissenschaftliche Arbeiten zu schreiben. Hierzu gehören: professioneller Aufbau eines Dokuments sowie der Kapitel und Textseiten Gestalten von Überschriften, Kopfzeilen, Fußzeilen und Fußnoten Erstellen und Einfügen von Listen, Aufzählungen, Tabellen, Grafiken und Bildern korrekte Verwaltung von Zitaten, Quellen und Verweisen hilfreicher und zielgerichteter Einsatz diverser Assistenzfunktionen Anfertigen von Inhalts- und Stichwortverzeichnissen effektives Arbeiten mit Formatvorlagen Falls Ihr Abgabetermin kurz bevorsteht, zeigen Ihnen besonders hervorgehobene Kurzanleitungen, wie Sie Ihre inhaltlich fertige Arbeit auf die Schnelle in eine ansehnliche Form bringen. Es werden alle Funktionen für die Office-Versionen 365, 2019, 2016, 2013 und 2010 parallel dargestellt. So finden Sie beim Versionswechsel sofort die jeweiligen Funktionen wieder. Aus dem Inhalt: Teil I: Dokument vorbereiten und einrichten Dokument und Seiten einrichten Fließtext und Überschriften gestalten Kopf- und Fußzeilen formatieren und Seiten nummerieren Verweise und Verzeichnisse erstellen Teil II: Word ist keine Schreibmaschine Text eingeben, importieren und korrigieren Eingabehilfen verwenden und anpassen Zeichen, Wörter, Zeilen und Absätze formatieren Text suchen, ersetzen und sortieren Teil III: Ergänzend zum Fließtext Listen und Aufzählungen verwenden Tabellen, Bilder und Formeln einbinden und beschriften Teil IV: Automatische Funktionen nutzen Feld-, Zähl- und Rechenfunktionen verstehen Arbeit erleichtern mit Makros Teil V: Abschließen und publizieren Dokumente verwalten und veröffentlichen Im Workflow arbeiten Fertiges Dokument drucken Anhänge Die eigene Word-Oberfläche gestalten Probleme lösen und Fehler beheben Glossar, Index, Trickkiste.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">hrbAzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783958459199</dc:identifier>
+        <dc:language>deu</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;G. O. Tuhls&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-10T22:45:49+00:00"/>
+        <meta name="calibre:title_sort" content="Wissenschaftliche Arbeiten schreiben mit Microsoft Office Word 365, 2019, 2016, 2013, 2010"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

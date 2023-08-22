@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97ff35bf-beb0-4262-ab2a-7d7193851371</dc:identifier>
+        <dc:title>Mit Arduino die elektronische Welt entdecken: 4., komplett überarbeitete Neuauflage des Arduino-Bestsellers</dc:title>
+        <dc:creator opf:file-as="Bartmann, Erik" opf:role="aut">Erik Bartmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-22T16:44:41+00:00</dc:date>
+        <dc:description>&lt;p&gt;Der Arduino-Mikrocontroller ist aus der Elektronikwelt nicht mehr wegzudenken, er hat sich zu einem Standard im Hobbybereich entwickelt. In unzähligen Projekten kommt das Arduino-Board zum Einsatz, Hunderttausende von ausgereiften Softwarelösungen stehen für jeden zugänglich und unter freier Lizenz zur Verfügung. Der Arduino ist leicht zu programmieren. Preiswerte elektronische Bauteile wie LCDs, Sensoren und Motoren können an das Arduino-Board angeschlossen und damit gesteuert werden. Mit "Arduino die elektronische Welt entdecken" führt den Leser in die faszinierende Welt der Elektronik und Programmierung ein. Die Hardware wird leicht verständlich dargestellt und die Programmierung des Mikrocontrollers Schritt für Schritt grundsätzlich erklärt. Herzstück des Buches sind 48 detailliert beschriebene Arduino-Bastelprojekte, wobei sich die Komplexität von Projekt zu Projekt steigert. In jedem Bastelprojekt wird ein neues Grundlagenthema behandelt, neue Hardware wird eingeführt und neue Programmierkniffe und –werkzeuge werden vorgestellt. Jedes Bastelprojekt ist mit zahlreichen Fotos und Abbildungen illustriert und kann Schritt für Schritt nachgebaut werden. Alle verwendeten Bauteile werden genau erklärt und in ihrer prinzipiellen Funktionsweise vorgestellt. Die Bastelprojekte können beliebig erweitert und für andere Zwecke angepasst werden. Generationen von Hobbybastlern haben mit Erik Bartmanns Bestsellerbuch bereits die Arduino-Programmierung gelernt. In der komplett überarbeiteten 4. Neuauflage des Arduino-Standardwerkes wurden neue Bauteile wie der ESP32 oder LoRaWAN aufgenommen und neue Entwicklerwerkzeuge wie Node-RED, KiCad und MQTT behandelt.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bombini-Verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">cR6vEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783946496298</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Electronics</dc:subject>
+        <dc:subject>Microelectronics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erik Bartmann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T16:42:45+00:00"/>
+        <meta name="calibre:title_sort" content="Mit Arduino die elektronische Welt entdecken: 4., komplett überarbeitete Neuauflage des Arduino-Bestsellers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

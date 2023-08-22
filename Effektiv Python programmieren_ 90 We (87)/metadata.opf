@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">738d82a5-eaa7-4144-87ef-bd8fbfde6f22</dc:identifier>
+        <dc:title>Effektiv Python programmieren: 90 Wege für bessere Python-Programme</dc:title>
+        <dc:creator opf:file-as="Slatkin, Brett" opf:role="aut">Brett Slatkin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-15T19:49:01.703896+00:00</dc:date>
+        <dc:description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bewährte Verfahren, Tipps und Tricks für robusten, leistungsfähigen und wartungsfreundlichen Code&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grundlegende Aufgaben besser und effektiver erledigen&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lösungen für das Debuggen, Testen und Optimieren zur Verbesserung von Qualität und Performance&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Der Einstieg in die Python-Programmierung ist einfach, daher ist die Sprache auch so beliebt. Pythons einzigartige Stärken und Ausdrucksmöglichkeiten sind allerdings nicht immer offensichtlich. Zudem gibt es diverse verborgene Fallstricke, über die man leicht stolpern kann.&lt;/p&gt;
+&lt;p&gt;Dieses Buch vermittelt insbesondere eine Python-typische Herangehensweise an die Programmierung. Brett Slatkin nutzt dabei die Vorzüge von Python zum Schreiben von außerordentlich stabilem und schnellem Code. Er stellt 90 bewährte Verfahren, Tipps und Tricks vor, die er anhand praxisnaher Codebeispiele erläutert. Er setzt dabei den kompakten, an Fallbeispielen orientierten Stil von Scott Meyers populärem Buch »Effektiv C++ programmieren« ein.&lt;/p&gt;
+&lt;p&gt;Auf Basis seiner jahrelangen Erfahrung mit der Python-Infrastruktur bei Google demonstriert Slatkin weniger bekannte Eigenarten und Sprachelemente, die großen Einfluss auf das Verhalten des Codes und die Performance haben. Sie erfahren, wie sich grundlegende Aufgaben am besten erledigen lassen, damit Sie leichter verständlichen, wartungsfreundlicheren und einfach zu verbessernden Code schreiben können.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aus dem Inhalt:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Umsetzbare Richtlinien für alle wichtigen Bereiche der Entwicklung in Python 3 mit detaillierten Erklärungen und Beispielen&lt;/li&gt;
+&lt;li&gt;Funktionen so definieren, dass Code leicht wiederverwendet und Fehler vermieden werden können&lt;/li&gt;
+&lt;li&gt;Bessere Verfahren und Idiome für die Verwendung von Abstraktionen und Generatorfunktionen&lt;/li&gt;
+&lt;li&gt;Systemverhalten mithilfe von Klassen und Interfaces präzise definieren&lt;/li&gt;
+&lt;li&gt;Stolpersteine beim Programmieren mit Metaklassen und dynamischen Attributen umgehen&lt;/li&gt;
+&lt;li&gt;Effizientere und klare Ansätze für Nebenläufigkeit und parallele Ausführung&lt;/li&gt;
+&lt;li&gt;Tipps und Tricks zur Nutzung von Pythons Standardmodulen&lt;/li&gt;
+&lt;li&gt;Tools und Best Practices für die Zusammenarbeit mit anderen Entwicklern&lt;/li&gt;
+&lt;li&gt;Lösungen für das Debuggen, Testen und Optimieren zur Verbesserung von Qualität und Performance&lt;/li&gt;
+&lt;/ul&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783747501764</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HJp2zwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B087G63TN5</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brett Slatkin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-03-29T19:47:40.949305+00:00"/>
+        <meta name="calibre:title_sort" content="Effektiv Python programmieren: 90 Wege für bessere Python-Programme"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

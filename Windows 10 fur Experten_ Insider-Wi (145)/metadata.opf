@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ee37c58-7516-4920-8e42-e2fce7e0b4ae</dc:identifier>
+        <dc:title>Windows 10 für Experten: Insider-Wissen – praxisnah &amp; kompetent</dc:title>
+        <dc:creator opf:file-as="Bott, Ed &amp; Stinson, Craig" opf:role="aut">Ed Bott</dc:creator>
+        <dc:creator opf:file-as="Bott, Ed &amp; Stinson, Craig" opf:role="aut">Craig Stinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-08T14:21:28+00:00</dc:date>
+        <dc:description>&lt;p&gt;Werden Sie ein wahrer Windows 10-Experte! In diesem tiefgehenden, übersichtlich strukturierten Handbuch finden Sie Hunderte zeitsparende Lösungen, topaktuelle Tipps und geniale Tricks, um ein Betriebssystem zu zähmen, das sich ständig weiterentwickelt. Von der neuen Zeitachse über Microsoft Edge und Cortana bis hin zu Sicherheit und Virtualisierung: Hier erfahren Sie, wie echte Profis die Herausforderungen anpacken. In diesem Buch:   Die neuesten Windows 10-Versionen installieren, konfigurieren und anpassen Zuverlässigkeit, Sicherheit und Feature-Updates in allen Umgebungen verwalten Produktivität mit der ständig wachsenden Bibliothek integrierter Apps steigern Informationen schnell aufspüren mit der Windows-Suche und Cortana Verbesserungen an Microsoft Edge nutzen, von Erweiterungen bis erleichterter Bedienung Mit Cortana Aufgaben erledigen, Erinnerungen speichern, Daten abrufen und Fragen sofort beantworten Geräte, Daten und Identitäten schützen Malware und Angreifer abwehren Unternehmen mit Arbeitsplatzkonten, Windows Hello, Biometrie und Azure AD schützen Universal Windows Platform-Apps bereitstellen, nutzen und verwalten Inhalte mit OneDrive und OneDrive for Business speichern, synchronisieren und teilen Effizienter zusammenarbeiten mit den Windows 10-Apps Mail, Kalender und Skype Hardware- und virtuellen Speicher nahtlos verwalten Leistung und Akkulaufzeit optimieren, Abstürze verhindern&lt;/p&gt;</dc:description>
+        <dc:publisher>dpunkt.verlag</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">uPbyDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783960886914</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>System Administration</dc:subject>
+        <dc:subject>Windows Administration</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-15T08:47:14+00:00"/>
+        <meta name="calibre:title_sort" content="Windows 10 für Experten: Insider-Wissen – praxisnah &amp; kompetent"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

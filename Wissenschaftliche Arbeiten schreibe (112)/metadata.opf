@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a66e4f19-6068-4fc0-a0cd-48b0ff07b0c4</dc:identifier>
+        <dc:title>Wissenschaftliche Arbeiten schreiben mit LaTeX: Leitfaden für Einsteiger</dc:title>
+        <dc:creator opf:file-as="Joachim Schlosser" opf:role="aut">Joachim Schlosser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-15T06:56:25+00:00</dc:date>
+        <dc:description>&lt;p&gt;• Schnell zur fertig gesetzten Arbeit – ohne Vorkenntnisse• Lösungsorientierte und verständliche Beschreibungen• Von Tabellen und Formeln über Grafiken bis zum LiteraturverzeichnisDas professionelle Setzen von Texten mit LaTeX ist in vielen akademischen Disziplinen Standard. Besitzen Sie keine Vorkenntnisse und wollen sich in kurzer Zeit in LaTeX einarbeiten, um Ihre Arbeit zu verfassen, wird Ihnen dieses Buch eine wertvolle Hilfe sein. Speziell für diese Aufgabe konzipiert, vermittelt es Ihnen genau das praxisorientierte Wissen, das Sie benötigen – ohne überflüssigen Ballast. Anhand vieler Beispiele lernen Sie alles, was Sie brauchen, um eine formvollendete wissenschaftliche Arbeit mit LaTeX zu erstellen.&lt;/p&gt;
+
+&lt;p&gt;Dank dieses »Last-Minute-LaTeX-Buches« können Sie auch ohne Vorkenntnisse eine gut gesetzte wissenschaftliche Arbeit erstellen. Schritt für Schritt wird die Installation beschrieben ebenso wie das Erstellen und Einfügen von Tabellen, Formeln, Abbildungen, Fußnoten, des Literaturverzeichnisses mit biblatex etc. Neben weiteren Themen wie PDF-Erstellung und Druckoptimierung schließt das Buch mit einem umfassenden Kapitel zum Troubleshooting.&lt;/p&gt;
+
+&lt;p&gt;Das Buch ist von Anfang bis Ende praxisorientiert und enthält zahlreiche Beispiele, die die Anwendung von LaTeX veranschaulichen.&lt;/p&gt;
+
+&lt;p&gt;Aus dem Inhalt:• Installation und Konfiguration• Gliederungsbefehle• Textformatierung und Strukturierung• Aufzählungen und Nummerierungen• Querverweise• Fußnoten• Satzspiegel und Layout• Tabellen erstellen, formatieren und einfügen• Grafiken erstellen und einfügen• Mathematische Gleichungen erstellen und einfügen• Kopf- und Fußzeilen• Literatur zitieren und verwalten mit biblatex• Inhalts-, Abbildungs-, Tabellen-, Literaturverzeichnis, Index und Glossar erstellen• Längere Arbeiten aufsetzen• Schriften wählen – jetzt auch mit TeX Gyre• PDF erstellen und Arbeit drucken• Fehlersuche&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783747504482</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">U7lIEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Word Processing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joachim Schlosser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:18+00:00"/>
+        <meta name="calibre:title_sort" content="Wissenschaftliche Arbeiten schreiben mit LaTeX: Leitfaden für Einsteiger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

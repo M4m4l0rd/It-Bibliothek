@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08bafac2-6d73-4f4e-a24a-cf0b8a6cc6a7</dc:identifier>
+        <dc:title>C für Dummies</dc:title>
+        <dc:creator opf:file-as="Gookin, Dan" opf:role="aut">Dan Gookin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-16T06:56:41.092289+00:00</dc:date>
+        <dc:description>&lt;p&gt;C erfreut sich als Klassiker unter den Programmiersprachen großer Beliebtheit, denn es steckt nach wie vor in vielen Betriebssystemen, Schnittstellen und Treibern, aber auch in Compilern und neueren eingebetteten Systemen. Wer C lernen und dabei auch noch Spaß haben möchte, sollte zu diesem Buch vom Urvater der Dummies, Dan Gookin, greifen. Mit viel Humor und vielen anschaulichen Beispielen macht er die Programmiersprache C lebendig.&lt;/p&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783527833382</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">y1YlEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>C</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dan Gookin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:52:04.737791+00:00"/>
+        <meta name="calibre:title_sort" content="C für Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

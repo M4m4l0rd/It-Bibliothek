@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6363e7f-beb3-4859-b463-daffed957401</dc:identifier>
+        <dc:title>Wissensmanagment</dc:title>
+        <dc:creator opf:file-as="Franz Lehner" opf:role="aut">Franz Lehner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-12T13:31:34+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; Warum ist Wissensmanagement notwendig? – Erläuterungen dazu in Kapitel 1 „Die Herausforderung: Wandel und Bewältigung von Wandel in Unternehmen“&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Was ist und womit beschäftigt sich Wissensmanagement genau? – Darstellung der Aufgaben und Grundlagen des Wissensmanagements in Kapitel 2&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Wie ordnet sich das Wissensmanagement als interdisziplinäres Fachgebiet in die Wissenschaftslandschaft ein? – Darstellung der Wurzeln und der Referenzdisziplinen in Kapitel 3&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Welche Hilfsmittel stehen dem Wissensmanagement für seine Aufgaben zur Verfügung? –&lt;/p&gt;
+&lt;p&gt;Präsentation der Methoden und der softwaretechnischen Hilfsmittel in Kapitel 4&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; Welche Erfahrungen wurden mit dem Wissensmanagement gemacht, und worauf kommt&lt;/p&gt;
+&lt;p&gt;es in der Praxis an? – Präsentation von Fallstudien und Erfolgsfaktoren in Kapitel 5 &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Carl Hanser Verlag GmbH  Co KG</dc:publisher>
+        <dc:language>de</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Franz Lehner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T23:29:48+00:00"/>
+        <meta name="calibre:title_sort" content="Wissensmanagment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

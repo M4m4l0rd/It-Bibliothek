@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c16f709-cbdc-4f16-8a66-115ab39ab729</dc:identifier>
+        <dc:title>Neuronale Netze mit C# programmieren: Mit praktischen Beispielen für Machine Learning im Unternehmenseinsatz</dc:title>
+        <dc:creator opf:file-as="Basler Daniel" opf:role="aut">Daniel Basler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T06:55:53.494581+00:00</dc:date>
+        <dc:description>&lt;p&gt;NEURONALE NETZE MIT C# PROGRAMMIEREN //- Aufbau und Training von neuronalen Netzen- Wichtige Machine-Learning-Algorithmen verstehen und einsetzen- Arbeiten mit ML.NET und Infer.&lt;/p&gt;
+
+&lt;p&gt;NET- Vorstellung des Open Source Framework TensorFlow.&lt;/p&gt;
+
+&lt;p&gt;NET- Erstellen eines Lex-Chatbot für .NET- Alle Beispiele sind mit Visual Studio und C# umsetzbarSie wollen neuronale Netze und Machine-Learning-Algorithmen mit C# entwickeln? Dann finden Sie in diesem Buch eine gut verständliche Einführung in die Grundlagen und es wird Ihnen gezeigt, wie Sie neuronale Netze und Machine-Learning-Algorithmen in Ihren eigenen Projekten praktisch einsetzen.&lt;/p&gt;
+
+&lt;p&gt;Mithilfe von Beispielen erstellen und trainieren Sie Ihr erstes neuronales Netz zur vorausschauenden Wartung einer Produktionsmaschine.&lt;/p&gt;
+
+&lt;p&gt;Im Praxisteil lernen Sie dann, wie Sie TensorFlow-Modelle in ML.NET benutzen oder Infer.&lt;/p&gt;
+
+&lt;p&gt;NET direkt verwenden können. Des Weiteren nutzen Sie die Predictive- und Sentiment-Analyse, um sich mit Machine-Learning-Algorithmen vertraut zu machen.&lt;/p&gt;
+
+&lt;p&gt;Alle im Buch vorgestellten Projekte sind in C# programmiert und stehen als Download zur Verfügung. Grundkenntnisse in C# werden für die Arbeit mit dem Buch vorausgesetzt. Alle Projekte lassen sich ohne größere Rechnerressourcen umsetzen.&lt;/p&gt;
+
+&lt;p&gt;AUS DEM INHALT //Künstliche Intelligenz: Grundlagen/Konzepte und Methoden von Machine Learning/Neuronale Netze bauen und trainieren/Maschinensimulation mitMultilayer Perceptron ( MLP )/Backpropagation/Recurrent Neural Networks/Convolutional Neural Networks/Machine Learning as a Service/Predictive Analytics/Objekterkennung/Sentiment-AnalyseDaniel Basler arbeitet als Lead Developer und Softwarearchitekt. Seine Schwerpunkte liegen auf Cross-Platform-Apps, Android, JavaScript und Microsoft-Technologien. Er entwickelt u.a. Software für Regal- und Flächenlagersysteme sowie Anlagenvisualisierung und setzt in diesem Umfeld verstärkt Machine-Learning-Methoden ein. Darüber hinaus schreibt er regelmäßig Artikel für die Fachzeitschriften dotnetpro und web&amp;amp;mobile Developer.&lt;/p&gt;</dc:description>
+        <dc:publisher>Carl Hanser Verlag GmbH  Co KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783446466357</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8rwlEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Basler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T06:50:32.941824+00:00"/>
+        <meta name="calibre:title_sort" content="Neuronale Netze mit C# programmieren: Mit praktischen Beispielen für Machine Learning im Unternehmenseinsatz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d97f88b-008d-46df-8799-68d15873e900</dc:identifier>
+        <dc:title>Excel Hacks: Formeln und Funktionen effektiv einsetzen. 250 praktische Lösungen für konkrete Aufgabenstellungen</dc:title>
+        <dc:creator opf:file-as="Böhm, Franz" opf:role="aut">Franz Böhm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-17T15:55:33.428852+00:00</dc:date>
+        <dc:description>&lt;p&gt;- Excel-Funktionen effektiv kombinieren, um alltägliche Aufgaben zu lösen- Von Datums- und Uhrzeitberechnungen über Umsatzermittlung und Statistik bis hin zu Datenbanken und bedingter Formatierung- Zum Download: Alle Lösungen als Tabellenkalkulation für den sofortigen Einsatz- Geeignet für Microsoft 365 sowie Excel 2019-2021 und Calc (LibreOffice)Mit Microsoft Excel können Sie all Ihre Tabellenkalkulationsaufgaben lösen, doch Sie müssen wissen, welche Funktionen wie miteinander kombiniert werden, um die Software effektiv einzusetzen und alltägliche Aufgaben zu meistern.&lt;/p&gt;
+
+&lt;p&gt;Mit diesem Buch erhalten Sie 250 praktische Lösungen für gängige Aufgabenstellungen. Jede Lösung besteht aus einer kurzen Erläuterung der Aufgabe, einer leicht verständlichen Beschreibung des Lösungswegs sowie einer Liste aller verwendeten Funktionen mit Funktionssyntax, sodass Sie die Formeln leicht an Ihre Bedürfnisse anpassen oder als Anregung für eigene Lösungen zugrunde legen können.&lt;/p&gt;
+
+&lt;p&gt;Alle vorgestellten Formeln – sowie fünf umfangreiche Beispielanwendungen vom Urlaubskalender bis zum Haushaltsbuch – stehen sowohl im Format *.xlsx für Excel als auch im Format *.ods für Calc zum Download bereit und können sofort eingesetzt werden.&lt;/p&gt;</dc:description>
+        <dc:publisher>MITP-Verlags GmbH &amp; Co. KG</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783747506127</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3LauEAAAQBAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Office Suites</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-07T15:55:17.927143+00:00"/>
+        <meta name="calibre:title_sort" content="Excel Hacks: Formeln und Funktionen effektiv einsetzen. 250 praktische Lösungen für konkrete Aufgabenstellungen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78e2b012-c36a-41a3-b9f5-440e1ab95732</dc:identifier>
+        <dc:title>Praxisbuch Usability und UX: Was jeder wissen sollte, der Websites und Apps entwickelt</dc:title>
+        <dc:creator opf:file-as="Jacobsen, Jens &amp; Meyer, Lorena" opf:role="aut">Jens Jacobsen</dc:creator>
+        <dc:creator opf:file-as="Jacobsen, Jens &amp; Meyer, Lorena" opf:role="aut">Lorena Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-15T20:53:08.717211+00:00</dc:date>
+        <dc:description>Von Praktikern für Praktiker: Dieses Buch enthält alles, was Sie für die Planung und Umsetzung nutzerfreundlicher Webseiten wissen sollten. Profitieren Sie von jahrzehntelanger Erfahrung und lernen Sie, wie Sie Seiten navigierbar gestalten, Inhalte zugänglich präsentieren und User begeistern. Die Anleitung für alle, die neue Websites erstellen oder bestehende verbessern möchten. Auch geeignet als Nachschlagewerk!</dc:description>
+        <dc:publisher>Rheinwerk Verlag</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783836244244</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bMGIswEACAAJ</dc:identifier>
+        <dc:language>deu</dc:language>
+        <dc:subject>Praxislösungen für alle Usability-Fälle</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jens Jacobsen&quot;: &quot;&quot;, &quot;Lorena Meyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-07T20:52:52.973125+00:00"/>
+        <meta name="calibre:title_sort" content="Praxisbuch Usability und UX: Was jeder wissen sollte, der Websites und Apps entwickelt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Titelbild" href="cover.jpg"/>
+    </guide>
+</package>
